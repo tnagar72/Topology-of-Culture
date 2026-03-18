@@ -1,0 +1,517 @@
+id,state,group,artifact,model,guess1,correct1,guess2,correct2,correct_any
+andhra_pradesh_0,andhra_pradesh,Telugu,Tirupati Balaji temple,tiny-aya-global,Vishnu Temple in Tirupati,False,Vishnu Temple in Tirupati,False,False
+andhra_pradesh_1,andhra_pradesh,Telugu,Rushi konda beach,tiny-aya-global,Vishakha Beach,False,Ananthapuram Beach,False,False
+andhra_pradesh_2,andhra_pradesh,Telugu,kakinada kaja,tiny-aya-global,Jalebi,False,Kaju Katai,False,False
+andhra_pradesh_3,andhra_pradesh,Telugu,Prakasam barrage,tiny-aya-global,River bridge,False,Vijayawada Raft,False,False
+andhra_pradesh_4,andhra_pradesh,Telugu,kalamkari paintings,tiny-aya-global,Pattachitra,False,Pattachitra,False,False
+andhra_pradesh_5,andhra_pradesh,Telugu,Brass idol of Nataraja in Tirupati,tiny-aya-global,Ganesha,False,Sannasari,False,False
+andhra_pradesh_6,andhra_pradesh,Telugu,Kuchipudi,tiny-aya-global,Bharatanatyam,False,Kathakali,False,False
+andhra_pradesh_7,andhra_pradesh,Telugu,Ikat Puri weaving,tiny-aya-global,Kalamkari,False,Pattachitra,False,False
+andhra_pradesh_8,andhra_pradesh,Telugu,kondapalli toys,tiny-aya-global,Gollu,False,Gollu,False,False
+andhra_pradesh_9,andhra_pradesh,Telugu,Kamal kadai embroidery,tiny-aya-global,Kanchipuram saree,False,Pancha Padya saree,False,False
+andhra_pradesh_10,andhra_pradesh,Telugu, Kolannalu or kolattam,tiny-aya-global,Gudi,False,Gudi,False,False
+andhra_pradesh_11,andhra_pradesh,Telugu,Mangalagiri Handloom Sarees,tiny-aya-global,Choli,False,Pancha,False,False
+andhra_pradesh_12,andhra_pradesh,Telugu,chandragiri fort,tiny-aya-global,Tirupati Balaji Temple,False,Ans: Tirupati Balaji Temple,False,False
+andhra_pradesh_13,andhra_pradesh,Telugu,Dharmavaram pattu,tiny-aya-global,**Kanchipuram saree**,False,**Panchala saree**,False,False
+telangana_14,telangana,Telugu,Batukamma/Bathukamma,tiny-aya-global,Golu,False,Golu,False,False
+telangana_15,telangana,Telugu,Charminar,tiny-aya-global,Charminar,True,,False,True
+telangana_16,telangana,Telugu,Kakatiya,tiny-aya-global,Warangal,False,Ans: Warangal,False,False
+telangana_17,telangana,Telugu,Hyderabadi Biryani,tiny-aya-global,Biryani,True,,False,True
+telangana_18,telangana,Telugu,Peddamma gudi,tiny-aya-global,Charminar,False,Ans: Golkonda Fort,False,False
+telangana_19,telangana,Telugu,Gadwal saree,tiny-aya-global,Chogidi,False,Chogidi,False,False
+telangana_20,telangana,Telugu,Salarjung Mueseum,tiny-aya-global,Charminar,False,Ans: Golconda Fort,False,False
+telangana_21,telangana,Telugu,durries from Warangal,tiny-aya-global,Gadhai,False,Gadhai,False,False
+telangana_22,telangana,Telugu,Hussain Sagar,tiny-aya-global,Hussain Sagar,True,,False,True
+telangana_23,telangana,Telugu,Golconda Fort,tiny-aya-global,Charminar,False,Ans: Charminar,False,False
+telangana_24,telangana,Telugu,langa voni,tiny-aya-global,**Choli**,False,**Pattu**,False,False
+telangana_25,telangana,Telugu,Bonaalu/Bonalu,tiny-aya-global,Peddama Gudi,False,Peddama,False,False
+telangana_26,telangana,Telugu,Birla Mandir,tiny-aya-global,Ramappa Temple,False,Ramappa Temple,False,False
+punjab_27,punjab,Punjabi,lassi,tiny-aya-global,Buttermilk,False,Lassi,True,True
+punjab_28,punjab,Punjabi,bhangra,tiny-aya-global,Giddha,False,Giddha,False,False
+punjab_29,punjab,Punjabi,lohri,tiny-aya-global,Lohri,True,,False,True
+punjab_30,punjab,Punjabi,basant panchmi,tiny-aya-global,Vaisakhi,False,Lohri,False,False
+punjab_31,punjab,Punjabi,punjabi jutti,tiny-aya-global,Chappals,False,Chappals,False,False
+punjab_32,punjab,Punjabi,virasat e khalsa,tiny-aya-global,Golden Temple,False,Harmandir Sahib,False,False
+punjab_33,punjab,Punjabi,golden temple,tiny-aya-global,Golden Temple,True,,False,True
+punjab_34,punjab,Punjabi,sarson ka saag,tiny-aya-global,Samosa,False,Gajjar Samosa,False,False
+punjab_35,punjab,Punjabi,paranda,tiny-aya-global,Mehendi,False,Chunni,False,False
+punjab_36,punjab,Punjabi,baba farid,tiny-aya-global,Guru Nanak,False,Guru Arjan Dev,False,False
+punjab_37,punjab,Punjabi,nakashi,tiny-aya-global,Zardozi,False,Phulkari,False,False
+punjab_38,punjab,Punjabi,saggi phull,tiny-aya-global,Chunni,False,Dupatta,False,False
+punjab_39,punjab,Punjabi,pakhi,tiny-aya-global,Chaddar,False,Chaddar,False,False
+punjab_40,punjab,Punjabi,heer ranjha,tiny-aya-global,Amrit Sar,False,Jindri,False,False
+punjab_41,punjab,Punjabi,baisakhi,tiny-aya-global,Vaisakhi,False,Lohri,False,False
+punjab_42,punjab,Punjabi,dastar,tiny-aya-global,Turban,False,Dastar,True,True
+punjab_43,punjab,Punjabi,kaintha,tiny-aya-global,Pagri,False,Turban,False,False
+punjab_44,punjab,Punjabi,gurudwara,tiny-aya-global,Gurdwara,False,Nizam,False,False
+punjab_45,punjab,Punjabi,turban,tiny-aya-global,Turban,True,,False,True
+punjab_46,punjab,Punjabi,chudha,tiny-aya-global,Mehendi,False,Chunni,False,False
+west_bengal_47,west_bengal,Bengali,nabanna,tiny-aya-global,Calcutta High Court,False,Ans: Calcutta High Court,False,False
+west_bengal_48,west_bengal,Bengali,dokra,tiny-aya-global,Chokha,False,Chokha,False,False
+west_bengal_49,west_bengal,Bengali,bamboo craft,tiny-aya-global,Mango leaves,False,Bamboo,True,True
+west_bengal_50,west_bengal,Bengali,chhau dance,tiny-aya-global,Durmura,False,Dandiya Raas,False,False
+west_bengal_51,west_bengal,Bengali,kantha,tiny-aya-global,*Chadda*,False,*Chadda*,False,False
+west_bengal_52,west_bengal,Bengali,elish fish fry,tiny-aya-global,Pitha,False,Pitha,False,False
+west_bengal_53,west_bengal,Bengali,wb new,tiny-aya-global,Butter,False,Butter,False,False
+west_bengal_54,west_bengal,Bengali,jamdani saree,tiny-aya-global,**Sari**,False,**Sari**,False,False
+west_bengal_55,west_bengal,Bengali,terracotta craft,tiny-aya-global,Chendur,False,Chendur,False,False
+west_bengal_56,west_bengal,Bengali,kirtan,tiny-aya-global,Bhakti Dance,False,Gauri Gaatha,False,False
+west_bengal_57,west_bengal,Bengali,misti doi,tiny-aya-global,Mishti Doi,False,Rasgulla,False,False
+west_bengal_58,west_bengal,Bengali,sundarban,tiny-aya-global,Sundarbans,True,,False,True
+west_bengal_59,west_bengal,Bengali,tant saree,tiny-aya-global,**Rabi Saree**,False,**Rabi Saree**,False,False
+west_bengal_60,west_bengal,Bengali,patachitra,tiny-aya-global,**Patachitra**,True,,False,True
+west_bengal_61,west_bengal,Bengali,baul,tiny-aya-global,Bhajan,False,Bhajan,False,False
+west_bengal_62,west_bengal,Bengali,royal bengal tiger,tiny-aya-global,Bengal Tiger,True,,False,True
+west_bengal_63,west_bengal,Bengali,rabindra sangeet,tiny-aya-global,Bengali film music,False,Ans: Bhangra,False,False
+west_bengal_64,west_bengal,Bengali,najrul geeti,tiny-aya-global,Bengali folk songs,False,**Bengali folk songs**,False,False
+west_bengal_65,west_bengal,Bengali,banga mata,tiny-aya-global,Saptarangi,False,Saptarangi,False,False
+west_bengal_66,west_bengal,Bengali,kobigaan,tiny-aya-global,Baul song,False,Bhajan,False,False
+maharashtra_67,maharashtra,Marathi,modak,tiny-aya-global,Gulab Jamun,False,Khandvi,False,False
+maharashtra_68,maharashtra,Marathi,vada pav,tiny-aya-global,Bhel Puri,False,Pav Bhaji,False,False
+maharashtra_69,maharashtra,Marathi,powada,tiny-aya-global,Dholi,False,Dandiya Raas,False,False
+maharashtra_70,maharashtra,Marathi,lavani,tiny-aya-global,Garba,False,Dandiya Raas,False,False
+maharashtra_71,maharashtra,Marathi,sol kadhi,tiny-aya-global,Gulab Jamun,False,Gulab Jamun,False,False
+maharashtra_72,maharashtra,Marathi,paithani,tiny-aya-global,Chikankari,False,Phulkari,False,False
+maharashtra_73,maharashtra,Marathi,local train,tiny-aya-global,Mumbai Metro,False,Mumbai Metro,False,False
+maharashtra_74,maharashtra,Marathi,ajanta caves,tiny-aya-global,Ellora Caves,False,Ans: Ajanta Caves,True,True
+maharashtra_75,maharashtra,Marathi,bollywood,tiny-aya-global,Bollywood,True,,False,True
+maharashtra_76,maharashtra,Marathi,aam ras,tiny-aya-global,Vada Pav,False,Pav Bhaji,False,False
+maharashtra_77,maharashtra,Marathi,tandalachi bhakri,tiny-aya-global,Dosa,False,Idli,False,False
+maharashtra_78,maharashtra,Marathi,shirdi,tiny-aya-global,Sai Baba Dandi,False,Ans: Trimbakeshwar,False,False
+maharashtra_79,maharashtra,Marathi,aksa beach,tiny-aya-global,Malad Beach,False,Juhu Beach,False,False
+maharashtra_80,maharashtra,Marathi,bangda fish curry,tiny-aya-global,Bombil Fry,False,Vada,False,False
+maharashtra_81,maharashtra,Marathi,zunka bhakri,tiny-aya-global,Dhokla,False,Pav Bhaji,False,False
+maharashtra_82,maharashtra,Marathi,pithla bhakri,tiny-aya-global,Dosa,False,Pav Bhaji,False,False
+uttar_pradesh_83,uttar_pradesh,Hindi-Urdu,Charkula,tiny-aya-global,Ghoomar,False,Ghoomar,False,False
+uttar_pradesh_84,uttar_pradesh,Hindi-Urdu,Nautanki,tiny-aya-global,Khoj Bazar,False,Garba,False,False
+uttar_pradesh_85,uttar_pradesh,Hindi-Urdu,Lucknow Kurta or kurta payjama,tiny-aya-global,Kurta,True,,False,True
+uttar_pradesh_86,uttar_pradesh,Hindi-Urdu,petha,tiny-aya-global,Gulab Jamun,False,Kaju Kat,False,False
+uttar_pradesh_87,uttar_pradesh,Hindi-Urdu,Thumri,tiny-aya-global,झुलनी,False,झुलनी,False,False
+uttar_pradesh_88,uttar_pradesh,Hindi-Urdu,dadra,tiny-aya-global,Bhangra,False,Garba,False,False
+uttar_pradesh_89,uttar_pradesh,Hindi-Urdu,Chikankari,tiny-aya-global,Chikankari,True,,False,True
+uttar_pradesh_90,uttar_pradesh,Hindi-Urdu,shahnai,tiny-aya-global,Sitar,False,Sarangi,False,False
+uttar_pradesh_91,uttar_pradesh,Hindi-Urdu,Banaras or Kashi,tiny-aya-global,Varanasi,False,Ans: Kashi,False,False
+uttar_pradesh_92,uttar_pradesh,Hindi-Urdu,Ramlila,tiny-aya-global,Gheri,False,Gheri,False,False
+uttar_pradesh_93,uttar_pradesh,Hindi-Urdu,Taj mahal,tiny-aya-global,Taj Mahal,True,,False,True
+uttar_pradesh_94,uttar_pradesh,Hindi-Urdu,Kathak,tiny-aya-global,Bharatanatyam,False,Kathakali,True,True
+uttar_pradesh_95,uttar_pradesh,Hindi-Urdu,Banarasi Saree,tiny-aya-global,Benarasi saree,False,Kanchipuram saree,False,False
+bihar_96,bihar,Hindi-Urdu,gupta dynasty,tiny-aya-global,Mauryan Empire,False,Maurya Empire,False,False
+bihar_97,bihar,Hindi-Urdu,litti,tiny-aya-global,Dosa,False,Samosa,False,False
+bihar_98,bihar,Hindi-Urdu,litchi,tiny-aya-global,Mango,False,Guava,False,False
+bihar_99,bihar,Hindi-Urdu,mithila painting,tiny-aya-global,Mural,False,Madhubani Painting,False,False
+bihar_100,bihar,Hindi-Urdu,mahabodhi temple,tiny-aya-global,Bodh Gaya Stupa,False,Mahabodhi Temple,True,True
+bihar_101,bihar,Hindi-Urdu,jayaprakash narayan,tiny-aya-global,Janata Dal,False,Janata Dal (United),False,False
+bihar_102,bihar,Hindi-Urdu,bodh gaya,tiny-aya-global,Gaya,True,,False,True
+bihar_103,bihar,Hindi-Urdu,jhumar,tiny-aya-global,Garba,False,Dandiya Raas,False,False
+bihar_104,bihar,Hindi-Urdu,rajendra prasad,tiny-aya-global,Akhilesh Yadav,False,Rajendra Prasad,True,True
+bihar_105,bihar,Hindi-Urdu,ganga bridge,tiny-aya-global,Ganga Aarti Bridge,False,Ans: Brahmaputra Bridge,False,False
+bihar_106,bihar,Hindi-Urdu,sattu,tiny-aya-global,Chawal,False,Khichdi,False,False
+bihar_107,bihar,Hindi-Urdu,maurya dynasty,tiny-aya-global,Mauryan Empire,False,Ans: Maurya Empire,False,False
+delhi_108,delhi,Hindi-Urdu,Momos,tiny-aya-global,Dosa,False,Vada,False,False
+delhi_109,delhi,Hindi-Urdu,Murthal,tiny-aya-global,Chandni Chowk,False,Ans: Chandni Chowk,False,False
+delhi_110,delhi,Hindi-Urdu,Connaught place,tiny-aya-global,Chandni Chowk,False,Ans: Connaught Place,True,True
+delhi_111,delhi,Hindi-Urdu,Gedi maarna,tiny-aya-global,Chai Sip,False,Chaat,False,False
+delhi_112,delhi,Hindi-Urdu,Jama Masjid,tiny-aya-global,Red Fort,False,Ans: Jama Masjid,True,True
+delhi_113,delhi,Hindi-Urdu,Sarojini Market,tiny-aya-global,Chandni Chowk,False,Ans: Chandni Chowk,False,False
+delhi_114,delhi,Hindi-Urdu,Hauz khaas,tiny-aya-global,The Lodhi Garden,False,Ans: Connaught Place,False,False
+delhi_115,delhi,Hindi-Urdu,Chandani Chowk,tiny-aya-global,Chandni Chowk,False,Ans: Chandni Chowk,False,False
+delhi_116,delhi,Hindi-Urdu,Kadhai waala doodh,tiny-aya-global,Gulab Jamun,False,Kulfi,False,False
+delhi_117,delhi,Hindi-Urdu,Street food culture,tiny-aya-global,Biryani,False,Dosa,False,False
+rajasthan_118,rajasthan,Hindi-Urdu,daal baati,tiny-aya-global,Gatte ki Sabzi,False,Dal Bati Churma,False,False
+rajasthan_119,rajasthan,Hindi-Urdu,gatte,tiny-aya-global,Chawal,False,Dosa,False,False
+rajasthan_120,rajasthan,Hindi-Urdu,hawa mahal,tiny-aya-global,Hawa Mahal,True,,False,True
+rajasthan_121,rajasthan,Hindi-Urdu,ghoomar,tiny-aya-global,Ghoomar,True,,False,True
+rajasthan_122,rajasthan,Hindi-Urdu,laal maas,tiny-aya-global,Dal Bati Churma,False,Gatte ki Sabzi,False,False
+rajasthan_123,rajasthan,Hindi-Urdu,bhangarh,tiny-aya-global,Chitralekha,False,Chitralekha,False,False
+rajasthan_124,rajasthan,Hindi-Urdu,ghewar,tiny-aya-global,Gulab Jamun,False,Kachchi,False,False
+rajasthan_125,rajasthan,Hindi-Urdu,keoladeo national park,tiny-aya-global,Keoladeo Bird Sanctuary,False,Ans: Keoladeo National Park,True,True
+rajasthan_126,rajasthan,Hindi-Urdu,maal puha,tiny-aya-global,Ghevar,False,Ghevar,False,False
+rajasthan_127,rajasthan,Hindi-Urdu,lake pichola,tiny-aya-global,Pichola Lake,False,Ans: Lake Pichola,True,True
+rajasthan_128,rajasthan,Hindi-Urdu,chittorgarh palace,tiny-aya-global,Amber Fort,False,Mehrangarh Fort,False,False
+andhra_pradesh_0,andhra_pradesh,Telugu,Tirupati Balaji temple,tiny-aya-fire,Vishnu Temple at Tirupati,False,Vishnu Temple at Tirupati,False,False
+andhra_pradesh_1,andhra_pradesh,Telugu,Rushi konda beach,tiny-aya-fire,Chilika Beach,False,Ans: Rann of Kutch,False,False
+andhra_pradesh_2,andhra_pradesh,Telugu,kakinada kaja,tiny-aya-fire,Jalebi,False,Barfi,False,False
+andhra_pradesh_3,andhra_pradesh,Telugu,Prakasam barrage,tiny-aya-fire,Kanaka Durga Bridge,False,Ans: Ranganatha Ramu Bridge,False,False
+andhra_pradesh_4,andhra_pradesh,Telugu,kalamkari paintings,tiny-aya-fire,Kalamkalam,False,Madhubani Painting,False,False
+andhra_pradesh_5,andhra_pradesh,Telugu,Brass idol of Nataraja in Tirupati,tiny-aya-fire,Gargeesamudra,False,Veera Lakshmi Narasimha Swamy,False,False
+andhra_pradesh_6,andhra_pradesh,Telugu,Kuchipudi,tiny-aya-fire,Kuchipudi,True,,False,True
+andhra_pradesh_7,andhra_pradesh,Telugu,Ikat Puri weaving,tiny-aya-fire,Kalamkiri,False,Patachitra,False,False
+andhra_pradesh_8,andhra_pradesh,Telugu,kondapalli toys,tiny-aya-fire,Wooden dolls,False,Gollu,False,False
+andhra_pradesh_9,andhra_pradesh,Telugu,Kamal kadai embroidery,tiny-aya-fire,Kanchipuram,False,Zardozi,False,False
+andhra_pradesh_10,andhra_pradesh,Telugu, Kolannalu or kolattam,tiny-aya-fire,Gollu,False,Gudi,False,False
+andhra_pradesh_11,andhra_pradesh,Telugu,Mangalagiri Handloom Sarees,tiny-aya-fire,Chunni,False,Pancha,False,False
+andhra_pradesh_12,andhra_pradesh,Telugu,chandragiri fort,tiny-aya-fire,Machilipatnam Fort,False,Ans: Amaravati Fort,False,False
+andhra_pradesh_13,andhra_pradesh,Telugu,Dharmavaram pattu,tiny-aya-fire,Kanchipuram saree,False,Chilkurthi,False,False
+telangana_14,telangana,Telugu,Batukamma/Bathukamma,tiny-aya-fire,Golu,False,Bonalu,False,False
+telangana_15,telangana,Telugu,Charminar,tiny-aya-fire,Charminar,True,,False,True
+telangana_16,telangana,Telugu,Kakatiya,tiny-aya-fire,Warangal,False,Ans: Warangal Sultans,False,False
+telangana_17,telangana,Telugu,Hyderabadi Biryani,tiny-aya-fire,Biryani,True,,False,True
+telangana_18,telangana,Telugu,Peddamma gudi,tiny-aya-fire,Charminar,False,Ans: Birla Mandir,False,False
+telangana_19,telangana,Telugu,Gadwal saree,tiny-aya-fire,Chandrakant,False,Kamrupa,False,False
+telangana_20,telangana,Telugu,Salarjung Mueseum,tiny-aya-fire,Charminar,False,Ans: Birla Mandir,False,False
+telangana_21,telangana,Telugu,durries from Warangal,tiny-aya-fire,Warangal Chintal,False,Warangal Chintal,False,False
+telangana_22,telangana,Telugu,Hussain Sagar,tiny-aya-fire,Hussain Sagar,True,,False,True
+telangana_23,telangana,Telugu,Golconda Fort,tiny-aya-fire,Charminar,False,Ans: Golkonda Fort,False,False
+telangana_24,telangana,Telugu,langa voni,tiny-aya-fire,Choli,False,Pattu,False,False
+telangana_25,telangana,Telugu,Bonaalu/Bonalu,tiny-aya-fire,Maha Kali Festival,False,Navaratri,False,False
+telangana_26,telangana,Telugu,Birla Mandir,tiny-aya-fire,Ramagiri Temple,False,Ans: Ramagiri Temple,False,False
+punjab_27,punjab,Punjabi,lassi,tiny-aya-fire,Buttermilk Lassi,True,,False,True
+punjab_28,punjab,Punjabi,bhangra,tiny-aya-fire,Giddha,False,Garba,False,False
+punjab_29,punjab,Punjabi,lohri,tiny-aya-fire,Lohri,True,,False,True
+punjab_30,punjab,Punjabi,basant panchmi,tiny-aya-fire,Vaisakhi,False,Lohri,False,False
+punjab_31,punjab,Punjabi,punjabi jutti,tiny-aya-fire,Chappal,False,Chappal,False,False
+punjab_32,punjab,Punjabi,virasat e khalsa,tiny-aya-fire,Golden Temple,False,Harmandir Sahib,False,False
+punjab_33,punjab,Punjabi,golden temple,tiny-aya-fire,Golden Temple,True,,False,True
+punjab_34,punjab,Punjabi,sarson ka saag,tiny-aya-fire,Sanjhi,False,Gajjar Salan,False,False
+punjab_35,punjab,Punjabi,paranda,tiny-aya-fire,Kuchcha,False,Bandi,False,False
+punjab_36,punjab,Punjabi,baba farid,tiny-aya-fire,Guru Nanak Dev Ji,False,Guru Arjan Dev Ji,False,False
+punjab_37,punjab,Punjabi,nakashi,tiny-aya-fire,Zardzi,False,Phulkari,False,False
+punjab_38,punjab,Punjabi,saggi phull,tiny-aya-fire,Channar,False,Pagri,False,False
+punjab_39,punjab,Punjabi,pakhi,tiny-aya-fire,Chilla,False,Chillā,False,False
+punjab_40,punjab,Punjabi,heer ranjha,tiny-aya-fire,Amrit Saagar,False,Patiala Saagar,False,False
+punjab_41,punjab,Punjabi,baisakhi,tiny-aya-fire,Vaisakhi,False,Baisakhi,True,True
+punjab_42,punjab,Punjabi,dastar,tiny-aya-fire,Turban,False,Keshpata,False,False
+punjab_43,punjab,Punjabi,kaintha,tiny-aya-fire,Pagri,False,Turban,False,False
+punjab_44,punjab,Punjabi,gurudwara,tiny-aya-fire,Gurdwara,False,Langar,False,False
+punjab_45,punjab,Punjabi,turban,tiny-aya-fire,Turban,True,,False,True
+punjab_46,punjab,Punjabi,chudha,tiny-aya-fire,Mundhu,False,Phulkarni,False,False
+west_bengal_47,west_bengal,Bengali,nabanna,tiny-aya-fire,Calcutta High Court,False,Ans: Calcutta High Court,False,False
+west_bengal_48,west_bengal,Bengali,dokra,tiny-aya-fire,Chokha,False,Chokha,False,False
+west_bengal_49,west_bengal,Bengali,bamboo craft,tiny-aya-fire,Machha,False,Jute,False,False
+west_bengal_50,west_bengal,Bengali,chhau dance,tiny-aya-fire,Durmura,False,Garba,False,False
+west_bengal_51,west_bengal,Bengali,kantha,tiny-aya-fire,Chador,False,Chador,False,False
+west_bengal_52,west_bengal,Bengali,elish fish fry,tiny-aya-fire,Bhuna Makhana,False,Hilsa Fish Curry,False,False
+west_bengal_53,west_bengal,Bengali,wb new,tiny-aya-fire,Butter,False,Ghee,False,False
+west_bengal_54,west_bengal,Bengali,jamdani saree,tiny-aya-fire,Noii,False,**Chador**,False,False
+west_bengal_55,west_bengal,Bengali,terracotta craft,tiny-aya-fire,Chendai,False,Chhena,False,False
+west_bengal_56,west_bengal,Bengali,kirtan,tiny-aya-fire,Chhapangra,False,Gauri Gaatha,False,False
+west_bengal_57,west_bengal,Bengali,misti doi,tiny-aya-fire,Mishti doi,False,Rasgulla,False,False
+west_bengal_58,west_bengal,Bengali,sundarban,tiny-aya-fire,Sundarbans,True,,False,True
+west_bengal_59,west_bengal,Bengali,tant saree,tiny-aya-fire,Bengali Banarasi,False,Ans: Bengali Banarasi,False,False
+west_bengal_60,west_bengal,Bengali,patachitra,tiny-aya-fire,Blockprint,False,Ans: Blockprint,False,False
+west_bengal_61,west_bengal,Bengali,baul,tiny-aya-fire,**Bhajan**,False,**Bhajan**,False,False
+west_bengal_62,west_bengal,Bengali,royal bengal tiger,tiny-aya-fire,Bengal Tiger,True,,False,True
+west_bengal_63,west_bengal,Bengali,rabindra sangeet,tiny-aya-fire,Bengali film songs,False,Bhangra,False,False
+west_bengal_64,west_bengal,Bengali,najrul geeti,tiny-aya-fire,Bengali folk songs,False,Bhane Bhane Re,False,False
+west_bengal_65,west_bengal,Bengali,banga mata,tiny-aya-fire,**Jor Bona**,False,**Jor Bona**,False,False
+west_bengal_66,west_bengal,Bengali,kobigaan,tiny-aya-fire,Baul Geet,False,Bhane Bhane Re,False,False
+maharashtra_67,maharashtra,Marathi,modak,tiny-aya-fire,Gulab Jamun,False,Khandvi,False,False
+maharashtra_68,maharashtra,Marathi,vada pav,tiny-aya-fire,Paratha,False,Pav,False,False
+maharashtra_69,maharashtra,Marathi,powada,tiny-aya-fire,Dilbar,False,Bhavai,False,False
+maharashtra_70,maharashtra,Marathi,lavani,tiny-aya-fire,Garba,False,Dandiya Raas,False,False
+maharashtra_71,maharashtra,Marathi,sol kadhi,tiny-aya-fire,Gudiya,False,Rasgulla,False,False
+maharashtra_72,maharashtra,Marathi,paithani,tiny-aya-fire,Chikankari saree,False,Phulkari saree,False,False
+maharashtra_73,maharashtra,Marathi,local train,tiny-aya-fire,Mumbai Metro,False,Lokmanya Tilak Terminus,False,False
+maharashtra_74,maharashtra,Marathi,ajanta caves,tiny-aya-fire,Ellora Caves,False,Ans: Ajanta Caves,True,True
+maharashtra_75,maharashtra,Marathi,bollywood,tiny-aya-fire,Bollywood,True,,False,True
+maharashtra_76,maharashtra,Marathi,aam ras,tiny-aya-fire,Vada Pav,False,Rasgulla,False,False
+maharashtra_77,maharashtra,Marathi,tandalachi bhakri,tiny-aya-fire,Idli,False,Dosa,False,False
+maharashtra_78,maharashtra,Marathi,shirdi,tiny-aya-fire,Sai Nagar,False,Ans: Satsang Nagar,False,False
+maharashtra_79,maharashtra,Marathi,aksa beach,tiny-aya-fire,Malad Beach,False,Ans: Bandra Kurla Complex Beach,False,False
+maharashtra_80,maharashtra,Marathi,bangda fish curry,tiny-aya-fire,Koli Makhana,False,Koli Fish Curry,False,False
+maharashtra_81,maharashtra,Marathi,zunka bhakri,tiny-aya-fire,Dhokla,False,Pav Bhaji,False,False
+maharashtra_82,maharashtra,Marathi,pithla bhakri,tiny-aya-fire,Roti,False,Roti,False,False
+uttar_pradesh_83,uttar_pradesh,Hindi-Urdu,Charkula,tiny-aya-fire,Ghoomar,False,Garba,False,False
+uttar_pradesh_84,uttar_pradesh,Hindi-Urdu,Nautanki,tiny-aya-fire,Garba,False,Dandiya Raas,False,False
+uttar_pradesh_85,uttar_pradesh,Hindi-Urdu,Lucknow Kurta or kurta payjama,tiny-aya-fire,Kurta,True,,False,True
+uttar_pradesh_86,uttar_pradesh,Hindi-Urdu,petha,tiny-aya-fire,Gulab Jamun,False,Rasgulla,False,False
+uttar_pradesh_87,uttar_pradesh,Hindi-Urdu,Thumri,tiny-aya-fire,झुलनी,False,झुलनी,False,False
+uttar_pradesh_88,uttar_pradesh,Hindi-Urdu,dadra,tiny-aya-fire,Bhajan,False,Dholki,False,False
+uttar_pradesh_89,uttar_pradesh,Hindi-Urdu,Chikankari,tiny-aya-fire,Chikankari,True,,False,True
+uttar_pradesh_90,uttar_pradesh,Hindi-Urdu,shahnai,tiny-aya-fire,Tabla,False,Sarangi,False,False
+uttar_pradesh_91,uttar_pradesh,Hindi-Urdu,Banaras or Kashi,tiny-aya-fire,Varanasi,False,Ans: Kashi,False,False
+uttar_pradesh_92,uttar_pradesh,Hindi-Urdu,Ramlila,tiny-aya-fire,Gharana,False,Chhota Bhoj,False,False
+uttar_pradesh_93,uttar_pradesh,Hindi-Urdu,Taj mahal,tiny-aya-fire,Taj Mahal,True,,False,True
+uttar_pradesh_94,uttar_pradesh,Hindi-Urdu,Kathak,tiny-aya-fire,Bharatanatyam,False,Odissi,False,False
+uttar_pradesh_95,uttar_pradesh,Hindi-Urdu,Banarasi Saree,tiny-aya-fire,Benarasi saree,False,Chikankari saree,False,False
+bihar_96,bihar,Hindi-Urdu,gupta dynasty,tiny-aya-fire,Mauryan Dynasty,False,Gupta Dynasty,True,True
+bihar_97,bihar,Hindi-Urdu,litti,tiny-aya-fire,Chapati,False,Roti,False,False
+bihar_98,bihar,Hindi-Urdu,litchi,tiny-aya-fire,Lichi,False,Amla,False,False
+bihar_99,bihar,Hindi-Urdu,mithila painting,tiny-aya-fire,Miniature Painting,False,Madhubani Painting,False,False
+bihar_100,bihar,Hindi-Urdu,mahabodhi temple,tiny-aya-fire,Mahabodhi Temple,True,,False,True
+bihar_101,bihar,Hindi-Urdu,jayaprakash narayan,tiny-aya-fire,Janata Dal,False,Janata Party,False,False
+bihar_102,bihar,Hindi-Urdu,bodh gaya,tiny-aya-fire,Girnarjuniya,False,Ans: Bodh Gaya,True,True
+bihar_103,bihar,Hindi-Urdu,jhumar,tiny-aya-fire,Garba,False,Dandiya Raas,False,False
+bihar_104,bihar,Hindi-Urdu,rajendra prasad,tiny-aya-fire,No answer found.,False,Rajendra Prasad,True,True
+bihar_105,bihar,Hindi-Urdu,ganga bridge,tiny-aya-fire,Ganga Aarti Bridge,False,Ans: Ram Setu,False,False
+bihar_106,bihar,Hindi-Urdu,sattu,tiny-aya-fire,Chawalni,False,Besan,False,False
+bihar_107,bihar,Hindi-Urdu,maurya dynasty,tiny-aya-fire,Mauryan Empire,False,Ans: Magadha,False,False
+delhi_108,delhi,Hindi-Urdu,Momos,tiny-aya-fire,Dosa,False,Vada,False,False
+delhi_109,delhi,Hindi-Urdu,Murthal,tiny-aya-fire,Chandni Chowk,False,Ans: Chandni Chowk,False,False
+delhi_110,delhi,Hindi-Urdu,Connaught place,tiny-aya-fire,Chandni Chowk,False,Ans: Connaught Place,True,True
+delhi_111,delhi,Hindi-Urdu,Gedi maarna,tiny-aya-fire,Chhapra (Chhapaakadana),False,Gharagaari,False,False
+delhi_112,delhi,Hindi-Urdu,Jama Masjid,tiny-aya-fire,Red Fort,False,Jama Masjid,True,True
+delhi_113,delhi,Hindi-Urdu,Sarojini Market,tiny-aya-fire,Chandni Chowk,False,Ans: Chandni Chowk,False,False
+delhi_114,delhi,Hindi-Urdu,Hauz khaas,tiny-aya-fire,Chandni Chowk,False,Ans: Lodhi Garden,False,False
+delhi_115,delhi,Hindi-Urdu,Chandani Chowk,tiny-aya-fire,Chandni Chowk,False,Ans: Connaught Place,False,False
+delhi_116,delhi,Hindi-Urdu,Kadhai waala doodh,tiny-aya-fire,Gulab Jamun,False,Kulfi,False,False
+delhi_117,delhi,Hindi-Urdu,Street food culture,tiny-aya-fire,Litti Chokha,False,Samosa,False,False
+rajasthan_118,rajasthan,Hindi-Urdu,daal baati,tiny-aya-fire,Gatte ki Sabzi,False,Besan Khichdi,False,False
+rajasthan_119,rajasthan,Hindi-Urdu,gatte,tiny-aya-fire,Churma,False,Besan Khichdi,False,False
+rajasthan_120,rajasthan,Hindi-Urdu,hawa mahal,tiny-aya-fire,Hoysala Temple,False,Jal Mahal,False,False
+rajasthan_121,rajasthan,Hindi-Urdu,ghoomar,tiny-aya-fire,Ghoomar,True,,False,True
+rajasthan_122,rajasthan,Hindi-Urdu,laal maas,tiny-aya-fire,Dal Bati Churma,False,Gatte ki Sabzi,False,False
+rajasthan_123,rajasthan,Hindi-Urdu,bhangarh,tiny-aya-fire,**Chitralekha**,False,Chokhi Manda**,False,False
+rajasthan_124,rajasthan,Hindi-Urdu,ghewar,tiny-aya-fire,Ghewar,True,,False,True
+rajasthan_125,rajasthan,Hindi-Urdu,keoladeo national park,tiny-aya-fire,Keoladeo Bird Sanctuary,False,Ans: Keoladeo Bird Sanctuary,False,False
+rajasthan_126,rajasthan,Hindi-Urdu,maal puha,tiny-aya-fire,Ghewar,False,Kachchi,False,False
+rajasthan_127,rajasthan,Hindi-Urdu,lake pichola,tiny-aya-fire,Pichola Lake,False,Ans: Khejarila Lake,False,False
+rajasthan_128,rajasthan,Hindi-Urdu,chittorgarh palace,tiny-aya-fire,Mehrangarh Fort,False,Jaisalmer Fort,False,False
+andhra_pradesh_0,andhra_pradesh,Telugu,Tirupati Balaji temple,tiny-aya-earth,Vishnu Temple at Tirupati,False,Vishnu Temple at Srirangam,False,False
+andhra_pradesh_1,andhra_pradesh,Telugu,Rushi konda beach,tiny-aya-earth,Chilika Beach,False,Ans: Rann of Kutch,False,False
+andhra_pradesh_2,andhra_pradesh,Telugu,kakinada kaja,tiny-aya-earth,Jalebi,False,Barfi,False,False
+andhra_pradesh_3,andhra_pradesh,Telugu,Prakasam barrage,tiny-aya-earth,Kanaka Durga Bridge,False,Ans: Ranganatha Satya Bhuloka Muka,False,False
+andhra_pradesh_4,andhra_pradesh,Telugu,kalamkari paintings,tiny-aya-earth,Kalamkalam print,False,Madhubani print,False,False
+andhra_pradesh_5,andhra_pradesh,Telugu,Brass idol of Nataraja in Tirupati,tiny-aya-earth,Gaja Ganesha,False,Gaja Ganesha,False,False
+andhra_pradesh_6,andhra_pradesh,Telugu,Kuchipudi,tiny-aya-earth,Kuchipudi,True,,False,True
+andhra_pradesh_7,andhra_pradesh,Telugu,Ikat Puri weaving,tiny-aya-earth,Kalamkiri,False,Patachitra,False,False
+andhra_pradesh_8,andhra_pradesh,Telugu,kondapalli toys,tiny-aya-earth,Wooden dolls,False,Gollu,False,False
+andhra_pradesh_9,andhra_pradesh,Telugu,Kamal kadai embroidery,tiny-aya-earth,Kanchipuram,False,Zardozi,False,False
+andhra_pradesh_10,andhra_pradesh,Telugu, Kolannalu or kolattam,tiny-aya-earth,Gollu,False,Gudi,False,False
+andhra_pradesh_11,andhra_pradesh,Telugu,Mangalagiri Handloom Sarees,tiny-aya-earth,Chunni,False,Pancha,False,False
+andhra_pradesh_12,andhra_pradesh,Telugu,chandragiri fort,tiny-aya-earth,Machilipatnam Fort,False,Ans: Amaravati Fort,False,False
+andhra_pradesh_13,andhra_pradesh,Telugu,Dharmavaram pattu,tiny-aya-earth,Kanchipuram saree,False,Chilkurthi,False,False
+telangana_14,telangana,Telugu,Batukamma/Bathukamma,tiny-aya-earth,Golu,False,Bonalu,False,False
+telangana_15,telangana,Telugu,Charminar,tiny-aya-earth,Charminar,True,,False,True
+telangana_16,telangana,Telugu,Kakatiya,tiny-aya-earth,Warangal,False,Ans: Kakatiya,True,True
+telangana_17,telangana,Telugu,Hyderabadi Biryani,tiny-aya-earth,Biryani,True,,False,True
+telangana_18,telangana,Telugu,Peddamma gudi,tiny-aya-earth,Charminar,False,Ans: Birla Mandir,False,False
+telangana_19,telangana,Telugu,Gadwal saree,tiny-aya-earth,Chandrakant,False,Kamrupa,False,False
+telangana_20,telangana,Telugu,Salarjung Mueseum,tiny-aya-earth,Charminar,False,Ans: Birla Mandir,False,False
+telangana_21,telangana,Telugu,durries from Warangal,tiny-aya-earth,Warangal Chintal,False,Warangal Chintal,False,False
+telangana_22,telangana,Telugu,Hussain Sagar,tiny-aya-earth,Hussain Sagar,True,,False,True
+telangana_23,telangana,Telugu,Golconda Fort,tiny-aya-earth,Charminar,False,Ans: Birla Mandir,False,False
+telangana_24,telangana,Telugu,langa voni,tiny-aya-earth,Choli,False,Pattu,False,False
+telangana_25,telangana,Telugu,Bonaalu/Bonalu,tiny-aya-earth,Maha Kali Puja,False,Navaratri,False,False
+telangana_26,telangana,Telugu,Birla Mandir,tiny-aya-earth,Ramappa Temple,False,Ans: Ramappa Temple,False,False
+punjab_27,punjab,Punjabi,lassi,tiny-aya-earth,Buttermilk,False,Lassi,True,True
+punjab_28,punjab,Punjabi,bhangra,tiny-aya-earth,Giddha,False,Garba,False,False
+punjab_29,punjab,Punjabi,lohri,tiny-aya-earth,Lohri,True,,False,True
+punjab_30,punjab,Punjabi,basant panchmi,tiny-aya-earth,Vaisakhi,False,Lohri,False,False
+punjab_31,punjab,Punjabi,punjabi jutti,tiny-aya-earth,Chappals,False,Chappals,False,False
+punjab_32,punjab,Punjabi,virasat e khalsa,tiny-aya-earth,Golden Temple,False,Harmandir Sahib,False,False
+punjab_33,punjab,Punjabi,golden temple,tiny-aya-earth,Golden Temple,True,,False,True
+punjab_34,punjab,Punjabi,sarson ka saag,tiny-aya-earth,Sanjhi,False,Gajjar Salan,False,False
+punjab_35,punjab,Punjabi,paranda,tiny-aya-earth,Kuchcha,False,Bandi,False,False
+punjab_36,punjab,Punjabi,baba farid,tiny-aya-earth,Guru Nanak Dev Ji,False,Guru Arjan Dev Ji,False,False
+punjab_37,punjab,Punjabi,nakashi,tiny-aya-earth,Zardzi,False,Phulkari,False,False
+punjab_38,punjab,Punjabi,saggi phull,tiny-aya-earth,Channar,False,Phulkari,False,False
+punjab_39,punjab,Punjabi,pakhi,tiny-aya-earth,Chilla,False,"Chilla is not the correct answer. The correct answer is a hand-cranked fan, but that is not a traditional Punjab",False,False
+punjab_40,punjab,Punjabi,heer ranjha,tiny-aya-earth,Amrit Saagar,False,Patni Padonnai,False,False
+punjab_41,punjab,Punjabi,baisakhi,tiny-aya-earth,Vaisakhi,False,Baisakhi,True,True
+punjab_42,punjab,Punjabi,dastar,tiny-aya-earth,Turban,False,Dastar,True,True
+punjab_43,punjab,Punjabi,kaintha,tiny-aya-earth,Pagri,False,Turban,False,False
+punjab_44,punjab,Punjabi,gurudwara,tiny-aya-earth,Gurdwara,False,Langar,False,False
+punjab_45,punjab,Punjabi,turban,tiny-aya-earth,Turban,True,,False,True
+punjab_46,punjab,Punjabi,chudha,tiny-aya-earth,Kara (Bandi),False,Phulkari,False,False
+west_bengal_47,west_bengal,Bengali,nabanna,tiny-aya-earth,Calcutta High Court Building,False,Ans: Victoria Memorial,False,False
+west_bengal_48,west_bengal,Bengali,dokra,tiny-aya-earth,Chokha,False,Chola,False,False
+west_bengal_49,west_bengal,Bengali,bamboo craft,tiny-aya-earth,Bamboo,True,,False,True
+west_bengal_50,west_bengal,Bengali,chhau dance,tiny-aya-earth,Durmura,False,Garba,False,False
+west_bengal_51,west_bengal,Bengali,kantha,tiny-aya-earth,Chador,False,Phuraan,False,False
+west_bengal_52,west_bengal,Bengali,elish fish fry,tiny-aya-earth,Paturi,False,Hilsa Fish Rosha,False,False
+west_bengal_53,west_bengal,Bengali,wb new,tiny-aya-earth,Butter,False,Ghee,False,False
+west_bengal_54,west_bengal,Bengali,jamdani saree,tiny-aya-earth,No Bagru,False,Chador,False,False
+west_bengal_55,west_bengal,Bengali,terracotta craft,tiny-aya-earth,Chendralekha,False,Patachitra,False,False
+west_bengal_56,west_bengal,Bengali,kirtan,tiny-aya-earth,Chhandra Chori,False,Gauri Gaatha,False,False
+west_bengal_57,west_bengal,Bengali,misti doi,tiny-aya-earth,Mishti doi,False,Rasgulla,False,False
+west_bengal_58,west_bengal,Bengali,sundarban,tiny-aya-earth,Sundarbans,True,,False,True
+west_bengal_59,west_bengal,Bengali,tant saree,tiny-aya-earth,Bengali Banarasi,False,Bengali Banarasi,False,False
+west_bengal_60,west_bengal,Bengali,patachitra,tiny-aya-earth,Blockprinting,False,Ans: Blockprinting,False,False
+west_bengal_61,west_bengal,Bengali,baul,tiny-aya-earth,Bhongo,False,Garba,False,False
+west_bengal_62,west_bengal,Bengali,royal bengal tiger,tiny-aya-earth,Bengal Tiger,True,,False,True
+west_bengal_63,west_bengal,Bengali,rabindra sangeet,tiny-aya-earth,Bengali film songs,False,Bhangra,False,False
+west_bengal_64,west_bengal,Bengali,najrul geeti,tiny-aya-earth,Bengali folk songs,False,Bhane Bhane Re,False,False
+west_bengal_65,west_bengal,Bengali,banga mata,tiny-aya-earth,Chitra Kolaj,False,Paduchitra,False,False
+west_bengal_66,west_bengal,Bengali,kobigaan,tiny-aya-earth,Baul song,False,Bhajan,False,False
+maharashtra_67,maharashtra,Marathi,modak,tiny-aya-earth,Gulab Jamun,False,Khandvi,False,False
+maharashtra_68,maharashtra,Marathi,vada pav,tiny-aya-earth,Paratha,False,Pav,False,False
+maharashtra_69,maharashtra,Marathi,powada,tiny-aya-earth,Dilbar,False,Deshpat,False,False
+maharashtra_70,maharashtra,Marathi,lavani,tiny-aya-earth,Garba,False,Dandiya Raas,False,False
+maharashtra_71,maharashtra,Marathi,sol kadhi,tiny-aya-earth,Gudi Matki,False,Guji Maty,False,False
+maharashtra_72,maharashtra,Marathi,paithani,tiny-aya-earth,Chikankari saree,False,Phulkari saree,False,False
+maharashtra_73,maharashtra,Marathi,local train,tiny-aya-earth,Mumbai Metro,False,Lokmanya Tilak Terminus,False,False
+maharashtra_74,maharashtra,Marathi,ajanta caves,tiny-aya-earth,Ellora Caves,False,Ans: Ajanta Caves,True,True
+maharashtra_75,maharashtra,Marathi,bollywood,tiny-aya-earth,Bollywood,True,,False,True
+maharashtra_76,maharashtra,Marathi,aam ras,tiny-aya-earth,Vada Pav,False,Payasa,False,False
+maharashtra_77,maharashtra,Marathi,tandalachi bhakri,tiny-aya-earth,Roti Roll,False,Paratha,False,False
+maharashtra_78,maharashtra,Marathi,shirdi,tiny-aya-earth,Sai Baba Dandi,False,Ans: Trimbakeshwar,False,False
+maharashtra_79,maharashtra,Marathi,aksa beach,tiny-aya-earth,Juhu Beach,False,Juhu Beach,False,False
+maharashtra_80,maharashtra,Marathi,bangda fish curry,tiny-aya-earth,Koli Makhana,False,Koli Fish Curry,False,False
+maharashtra_81,maharashtra,Marathi,zunka bhakri,tiny-aya-earth,Dhokla,False,Pav Bhaji,False,False
+maharashtra_82,maharashtra,Marathi,pithla bhakri,tiny-aya-earth,Roti,False,Ghewar,False,False
+uttar_pradesh_83,uttar_pradesh,Hindi-Urdu,Charkula,tiny-aya-earth,Ghatstha,False,Garba,False,False
+uttar_pradesh_84,uttar_pradesh,Hindi-Urdu,Nautanki,tiny-aya-earth,Garba,False,Dandiya Raas,False,False
+uttar_pradesh_85,uttar_pradesh,Hindi-Urdu,Lucknow Kurta or kurta payjama,tiny-aya-earth,Kurta,True,,False,True
+uttar_pradesh_86,uttar_pradesh,Hindi-Urdu,petha,tiny-aya-earth,Gulab Jamun,False,Rasgulla,False,False
+uttar_pradesh_87,uttar_pradesh,Hindi-Urdu,Thumri,tiny-aya-earth,झुलनी,False,झुलनी,False,False
+uttar_pradesh_88,uttar_pradesh,Hindi-Urdu,dadra,tiny-aya-earth,Garba,False,Dandiya Raas,False,False
+uttar_pradesh_89,uttar_pradesh,Hindi-Urdu,Chikankari,tiny-aya-earth,Chikankari,True,,False,True
+uttar_pradesh_90,uttar_pradesh,Hindi-Urdu,shahnai,tiny-aya-earth,Tabla,False,Sarangi,False,False
+uttar_pradesh_91,uttar_pradesh,Hindi-Urdu,Banaras or Kashi,tiny-aya-earth,Varanasi,False,Ans: Kashi,False,False
+uttar_pradesh_92,uttar_pradesh,Hindi-Urdu,Ramlila,tiny-aya-earth,Gharana Natak,False,Garba Natak,False,False
+uttar_pradesh_93,uttar_pradesh,Hindi-Urdu,Taj mahal,tiny-aya-earth,Taj Mahal,True,,False,True
+uttar_pradesh_94,uttar_pradesh,Hindi-Urdu,Kathak,tiny-aya-earth,Bharatanatyam,False,Odissi,False,False
+uttar_pradesh_95,uttar_pradesh,Hindi-Urdu,Banarasi Saree,tiny-aya-earth,Benarasi saree,False,Chikankari saree,False,False
+bihar_96,bihar,Hindi-Urdu,gupta dynasty,tiny-aya-earth,Mauryan Dynasty,False,Gupta Dynasty,True,True
+bihar_97,bihar,Hindi-Urdu,litti,tiny-aya-earth,Chapati with dal makhani,False,Samosa,False,False
+bihar_98,bihar,Hindi-Urdu,litchi,tiny-aya-earth,Cherimoya,False,Guava,False,False
+bihar_99,bihar,Hindi-Urdu,mithila painting,tiny-aya-earth,Mithila painting,True,,False,True
+bihar_100,bihar,Hindi-Urdu,mahabodhi temple,tiny-aya-earth,Mahabodhi Temple,True,,False,True
+bihar_101,bihar,Hindi-Urdu,jayaprakash narayan,tiny-aya-earth,Janata Dal (United),False,Janata Dal (Lokesh),False,False
+bihar_102,bihar,Hindi-Urdu,bodh gaya,tiny-aya-earth,Girnarjuniya,False,Ans: Bodh Gaya,True,True
+bihar_103,bihar,Hindi-Urdu,jhumar,tiny-aya-earth,Garba,False,Dandiya Raas,False,False
+bihar_104,bihar,Hindi-Urdu,rajendra prasad,tiny-aya-earth,No answer found.,False,Dr. Rajendra Prasad,True,True
+bihar_105,bihar,Hindi-Urdu,ganga bridge,tiny-aya-earth,Ganga Aarti Bridge,False,Ans: Brahmaputra Bridge,False,False
+bihar_106,bihar,Hindi-Urdu,sattu,tiny-aya-earth,Chawal Chana,False,Besan,False,False
+bihar_107,bihar,Hindi-Urdu,maurya dynasty,tiny-aya-earth,Mauryan Empire,False,Ans: Maurya Dynasty,True,True
+delhi_108,delhi,Hindi-Urdu,Momos,tiny-aya-earth,Dosa,False,Vada,False,False
+delhi_109,delhi,Hindi-Urdu,Murthal,tiny-aya-earth,Noida,False,Ghaziabad,False,False
+delhi_110,delhi,Hindi-Urdu,Connaught place,tiny-aya-earth,Chandni Chowk,False,Ans: Connaught Place,True,True
+delhi_111,delhi,Hindi-Urdu,Gedi maarna,tiny-aya-earth,Chai Sip,False,Chaat Bazaar,False,False
+delhi_112,delhi,Hindi-Urdu,Jama Masjid,tiny-aya-earth,Red Fort,False,Ans: Jama Masjid,True,True
+delhi_113,delhi,Hindi-Urdu,Sarojini Market,tiny-aya-earth,Chandni Chowk,False,Ans: Chandni Chowk,False,False
+delhi_114,delhi,Hindi-Urdu,Hauz khaas,tiny-aya-earth,Chandni Chowk,False,Ans: Lodhi Garden,False,False
+delhi_115,delhi,Hindi-Urdu,Chandani Chowk,tiny-aya-earth,Chandni Chowk,False,Ans: Connaught Place,False,False
+delhi_116,delhi,Hindi-Urdu,Kadhai waala doodh,tiny-aya-earth,Gulab Jamun,False,Chaas,False,False
+delhi_117,delhi,Hindi-Urdu,Street food culture,tiny-aya-earth,Biryani,False,Chaat,False,False
+rajasthan_118,rajasthan,Hindi-Urdu,daal baati,tiny-aya-earth,Gatte ki Sabzi,False,Besan Khichdi,False,False
+rajasthan_119,rajasthan,Hindi-Urdu,gatte,tiny-aya-earth,Churma,False,Besan Barfi,False,False
+rajasthan_120,rajasthan,Hindi-Urdu,hawa mahal,tiny-aya-earth,Hoysala Temple,False,Ans: Jal Mahal,False,False
+rajasthan_121,rajasthan,Hindi-Urdu,ghoomar,tiny-aya-earth,Ghoomar,True,,False,True
+rajasthan_122,rajasthan,Hindi-Urdu,laal maas,tiny-aya-earth,Dal Bati Churma,False,Gatte ki Sabzi,False,False
+rajasthan_123,rajasthan,Hindi-Urdu,bhangarh,tiny-aya-earth,Chhau Killa,False,Dil Killa,False,False
+rajasthan_124,rajasthan,Hindi-Urdu,ghewar,tiny-aya-earth,Ghewar,True,,False,True
+rajasthan_125,rajasthan,Hindi-Urdu,keoladeo national park,tiny-aya-earth,Keoladeo Bird Sanctuary,False,Ans: Keoladeo Bird Sanctuary,False,False
+rajasthan_126,rajasthan,Hindi-Urdu,maal puha,tiny-aya-earth,Ghewar,False,Barfi,False,False
+rajasthan_127,rajasthan,Hindi-Urdu,lake pichola,tiny-aya-earth,Pichola Lake,False,Ans: Khejarilala Lake,False,False
+rajasthan_128,rajasthan,Hindi-Urdu,chittorgarh palace,tiny-aya-earth,Amber Fort,False,Mehrangarh Fort,False,False
+andhra_pradesh_0,andhra_pradesh,Telugu,Tirupati Balaji temple,tiny-aya-water,Vishnu Temple at Tirupati,False,Vishnu Temple at Tirupati,False,False
+andhra_pradesh_1,andhra_pradesh,Telugu,Rushi konda beach,tiny-aya-water,Chilika Beach,False,Ans: Rann of Kutch,False,False
+andhra_pradesh_2,andhra_pradesh,Telugu,kakinada kaja,tiny-aya-water,Jalebi,False,Barfi,False,False
+andhra_pradesh_3,andhra_pradesh,Telugu,Prakasam barrage,tiny-aya-water,Kanaka Durga Bridge,False,Vijayawada Raft,False,False
+andhra_pradesh_4,andhra_pradesh,Telugu,kalamkari paintings,tiny-aya-water,Kalamkalam print,False,Madhubani print,False,False
+andhra_pradesh_5,andhra_pradesh,Telugu,Brass idol of Nataraja in Tirupati,tiny-aya-water,Gaja Ganesha,False,Gaja Ganesha,False,False
+andhra_pradesh_6,andhra_pradesh,Telugu,Kuchipudi,tiny-aya-water,Kuchipudi,True,,False,True
+andhra_pradesh_7,andhra_pradesh,Telugu,Ikat Puri weaving,tiny-aya-water,Kalamkiri,False,Patachitra,False,False
+andhra_pradesh_8,andhra_pradesh,Telugu,kondapalli toys,tiny-aya-water,Wooden dolls,False,Gollu,False,False
+andhra_pradesh_9,andhra_pradesh,Telugu,Kamal kadai embroidery,tiny-aya-water,Kanchipuram,False,Zardozi,False,False
+andhra_pradesh_10,andhra_pradesh,Telugu, Kolannalu or kolattam,tiny-aya-water,Gollu,False,Gudi,False,False
+andhra_pradesh_11,andhra_pradesh,Telugu,Mangalagiri Handloom Sarees,tiny-aya-water,Chunni,False,Pancha,False,False
+andhra_pradesh_12,andhra_pradesh,Telugu,chandragiri fort,tiny-aya-water,Machilipatnam Fort,False,Ans: Amaravati Fort,False,False
+andhra_pradesh_13,andhra_pradesh,Telugu,Dharmavaram pattu,tiny-aya-water,Kanchipuram saree,False,Chilkurthi,False,False
+telangana_14,telangana,Telugu,Batukamma/Bathukamma,tiny-aya-water,Golu,False,Bonalu,False,False
+telangana_15,telangana,Telugu,Charminar,tiny-aya-water,Charminar,True,,False,True
+telangana_16,telangana,Telugu,Kakatiya,tiny-aya-water,Warangal,False,Ans: Kakatiya,True,True
+telangana_17,telangana,Telugu,Hyderabadi Biryani,tiny-aya-water,Biryani,True,,False,True
+telangana_18,telangana,Telugu,Peddamma gudi,tiny-aya-water,Charminar,False,Ans: Birla Mandir,False,False
+telangana_19,telangana,Telugu,Gadwal saree,tiny-aya-water,Chandrakant,False,Kamrupa,False,False
+telangana_20,telangana,Telugu,Salarjung Mueseum,tiny-aya-water,Charminar,False,Ans: Birla Mandir,False,False
+telangana_21,telangana,Telugu,durries from Warangal,tiny-aya-water,Warangal Chintal,False,Warangal Chintal,False,False
+telangana_22,telangana,Telugu,Hussain Sagar,tiny-aya-water,Hussain Sagar,True,,False,True
+telangana_23,telangana,Telugu,Golconda Fort,tiny-aya-water,Charminar,False,Ans: Birla Mandir,False,False
+telangana_24,telangana,Telugu,langa voni,tiny-aya-water,Choli,False,Pattu,False,False
+telangana_25,telangana,Telugu,Bonaalu/Bonalu,tiny-aya-water,Maha Kali Puja,False,Navaratri,False,False
+telangana_26,telangana,Telugu,Birla Mandir,tiny-aya-water,Ramappa Temple,False,Ans: Ramappa Temple,False,False
+punjab_27,punjab,Punjabi,lassi,tiny-aya-water,Buttermilk Lassi,True,,False,True
+punjab_28,punjab,Punjabi,bhangra,tiny-aya-water,Giddha,False,Baana,False,False
+punjab_29,punjab,Punjabi,lohri,tiny-aya-water,Lohri,True,,False,True
+punjab_30,punjab,Punjabi,basant panchmi,tiny-aya-water,Vaisakhi,False,Lohri,False,False
+punjab_31,punjab,Punjabi,punjabi jutti,tiny-aya-water,Chappals,False,Chappals,False,False
+punjab_32,punjab,Punjabi,virasat e khalsa,tiny-aya-water,Golden Temple,False,Akal Takht,False,False
+punjab_33,punjab,Punjabi,golden temple,tiny-aya-water,Golden Temple,True,,False,True
+punjab_34,punjab,Punjabi,sarson ka saag,tiny-aya-water,Sanjhi,False,Gajjar Salan,False,False
+punjab_35,punjab,Punjabi,paranda,tiny-aya-water,Kuchcha,False,Bandi,False,False
+punjab_36,punjab,Punjabi,baba farid,tiny-aya-water,Guru Nanak Dev Ji,False,Guru Arjan Dev Ji,False,False
+punjab_37,punjab,Punjabi,nakashi,tiny-aya-water,Zardzi,False,Phulkari,False,False
+punjab_38,punjab,Punjabi,saggi phull,tiny-aya-water,Channar,False,Phulkari,False,False
+punjab_39,punjab,Punjabi,pakhi,tiny-aya-water,Chilla,False,"Chilla is not the correct answer. The correct answer is a hand-cranked fan, but that is not a traditional Punjab",False,False
+punjab_40,punjab,Punjabi,heer ranjha,tiny-aya-water,Amrit Saagar,False,Patni Padonnai,False,False
+punjab_41,punjab,Punjabi,baisakhi,tiny-aya-water,Vaisakhi,False,Baisakhi,True,True
+punjab_42,punjab,Punjabi,dastar,tiny-aya-water,Turban,False,Dastar,True,True
+punjab_43,punjab,Punjabi,kaintha,tiny-aya-water,Pagri,False,Turban,False,False
+punjab_44,punjab,Punjabi,gurudwara,tiny-aya-water,Gurdwara,False,Langar,False,False
+punjab_45,punjab,Punjabi,turban,tiny-aya-water,Turban,True,,False,True
+punjab_46,punjab,Punjabi,chudha,tiny-aya-water,Kara Soti,False,Phulkari,False,False
+west_bengal_47,west_bengal,Bengali,nabanna,tiny-aya-water,Calcutta High Court Building,False,Ans: Victoria Memorial,False,False
+west_bengal_48,west_bengal,Bengali,dokra,tiny-aya-water,Chokha,False,Chokha,False,False
+west_bengal_49,west_bengal,Bengali,bamboo craft,tiny-aya-water,Bamboo,True,,False,True
+west_bengal_50,west_bengal,Bengali,chhau dance,tiny-aya-water,Durmura,False,Garba,False,False
+west_bengal_51,west_bengal,Bengali,kantha,tiny-aya-water,Chador,False,Phuraan,False,False
+west_bengal_52,west_bengal,Bengali,elish fish fry,tiny-aya-water,Paturi,False,Hilsa Fish Rosha,False,False
+west_bengal_53,west_bengal,Bengali,wb new,tiny-aya-water,Butter,False,Ghee,False,False
+west_bengal_54,west_bengal,Bengali,jamdani saree,tiny-aya-water,No Bagru,False,Chador,False,False
+west_bengal_55,west_bengal,Bengali,terracotta craft,tiny-aya-water,Chendralekha,False,Chendhi,False,False
+west_bengal_56,west_bengal,Bengali,kirtan,tiny-aya-water,Chhandra Chori,False,Gauri Gaatha,False,False
+west_bengal_57,west_bengal,Bengali,misti doi,tiny-aya-water,Mishti doi,False,Rasgulla,False,False
+west_bengal_58,west_bengal,Bengali,sundarban,tiny-aya-water,Sundarbans,True,,False,True
+west_bengal_59,west_bengal,Bengali,tant saree,tiny-aya-water,Bengali Banarasi,False,Bengali Banarasi,False,False
+west_bengal_60,west_bengal,Bengali,patachitra,tiny-aya-water,Blockprint,False,Ans: Blockprint,False,False
+west_bengal_61,west_bengal,Bengali,baul,tiny-aya-water,Bhongo,False,Garba,False,False
+west_bengal_62,west_bengal,Bengali,royal bengal tiger,tiny-aya-water,Bengal Tiger,True,,False,True
+west_bengal_63,west_bengal,Bengali,rabindra sangeet,tiny-aya-water,Bengali film songs,False,Bhangra,False,False
+west_bengal_64,west_bengal,Bengali,najrul geeti,tiny-aya-water,Bengali folk songs,False,Bhane Bhane Re,False,False
+west_bengal_65,west_bengal,Bengali,banga mata,tiny-aya-water,Chitra Kolaj,False,Paduchitra,False,False
+west_bengal_66,west_bengal,Bengali,kobigaan,tiny-aya-water,Baul song,False,Bhajan,False,False
+maharashtra_67,maharashtra,Marathi,modak,tiny-aya-water,Gulab Jamun,False,Khandvi,False,False
+maharashtra_68,maharashtra,Marathi,vada pav,tiny-aya-water,Paratha,False,Pav,False,False
+maharashtra_69,maharashtra,Marathi,powada,tiny-aya-water,Dilbar,False,Deshpat,False,False
+maharashtra_70,maharashtra,Marathi,lavani,tiny-aya-water,Garba,False,Dandiya Raas,False,False
+maharashtra_71,maharashtra,Marathi,sol kadhi,tiny-aya-water,Gudi Matki,False,Nariyal Kokam,False,False
+maharashtra_72,maharashtra,Marathi,paithani,tiny-aya-water,Chikankari saree,False,Phulkari saree,False,False
+maharashtra_73,maharashtra,Marathi,local train,tiny-aya-water,Mumbai Metro,False,Lokmanya Tilak Terminus,False,False
+maharashtra_74,maharashtra,Marathi,ajanta caves,tiny-aya-water,Ellora Caves,False,Ans: Ajanta Caves,True,True
+maharashtra_75,maharashtra,Marathi,bollywood,tiny-aya-water,Bollywood,True,,False,True
+maharashtra_76,maharashtra,Marathi,aam ras,tiny-aya-water,Vada Pav,False,Payasa,False,False
+maharashtra_77,maharashtra,Marathi,tandalachi bhakri,tiny-aya-water,Roti kutty,False,chapati,False,False
+maharashtra_78,maharashtra,Marathi,shirdi,tiny-aya-water,Sai Baba Dandi,False,Ans: Trimbakeshwar,False,False
+maharashtra_79,maharashtra,Marathi,aksa beach,tiny-aya-water,Juhu Beach,False,Juhu Beach,False,False
+maharashtra_80,maharashtra,Marathi,bangda fish curry,tiny-aya-water,Koli Makhana,False,Koli Fish Curry,False,False
+maharashtra_81,maharashtra,Marathi,zunka bhakri,tiny-aya-water,Dhokla,False,Pav Bhaji,False,False
+maharashtra_82,maharashtra,Marathi,pithla bhakri,tiny-aya-water,Roti,False,Ghewar,False,False
+uttar_pradesh_83,uttar_pradesh,Hindi-Urdu,Charkula,tiny-aya-water,Ghatstha,False,Garba,False,False
+uttar_pradesh_84,uttar_pradesh,Hindi-Urdu,Nautanki,tiny-aya-water,Garba,False,Dandiya Raas,False,False
+uttar_pradesh_85,uttar_pradesh,Hindi-Urdu,Lucknow Kurta or kurta payjama,tiny-aya-water,Kurta,True,,False,True
+uttar_pradesh_86,uttar_pradesh,Hindi-Urdu,petha,tiny-aya-water,Gulab Jamun,False,Rasgulla,False,False
+uttar_pradesh_87,uttar_pradesh,Hindi-Urdu,Thumri,tiny-aya-water,झुलनी,False,झुलनी,False,False
+uttar_pradesh_88,uttar_pradesh,Hindi-Urdu,dadra,tiny-aya-water,Garba,False,Dandiya Raas,False,False
+uttar_pradesh_89,uttar_pradesh,Hindi-Urdu,Chikankari,tiny-aya-water,Chikankari,True,,False,True
+uttar_pradesh_90,uttar_pradesh,Hindi-Urdu,shahnai,tiny-aya-water,Tabla,False,Sarangi,False,False
+uttar_pradesh_91,uttar_pradesh,Hindi-Urdu,Banaras or Kashi,tiny-aya-water,Varanasi,False,Ans: Kashi,False,False
+uttar_pradesh_92,uttar_pradesh,Hindi-Urdu,Ramlila,tiny-aya-water,Gharana Natak,False,Garba Natak,False,False
+uttar_pradesh_93,uttar_pradesh,Hindi-Urdu,Taj mahal,tiny-aya-water,Taj Mahal,True,,False,True
+uttar_pradesh_94,uttar_pradesh,Hindi-Urdu,Kathak,tiny-aya-water,Bharatanatyam,False,Odissi,False,False
+uttar_pradesh_95,uttar_pradesh,Hindi-Urdu,Banarasi Saree,tiny-aya-water,Benarasi saree,False,Chikankari saree,False,False
+bihar_96,bihar,Hindi-Urdu,gupta dynasty,tiny-aya-water,Mauryan Dynasty,False,Gupta Dynasty,True,True
+bihar_97,bihar,Hindi-Urdu,litti,tiny-aya-water,Chapati with dal makhani,False,Samosa,False,False
+bihar_98,bihar,Hindi-Urdu,litchi,tiny-aya-water,Cherimoya,False,Guava,False,False
+bihar_99,bihar,Hindi-Urdu,mithila painting,tiny-aya-water,Miniature Painting,False,Madhubani Painting,False,False
+bihar_100,bihar,Hindi-Urdu,mahabodhi temple,tiny-aya-water,Mahabodhi Temple,True,,False,True
+bihar_101,bihar,Hindi-Urdu,jayaprakash narayan,tiny-aya-water,Janata Dal,False,Janata Party,False,False
+bihar_102,bihar,Hindi-Urdu,bodh gaya,tiny-aya-water,Girnarjuniya,False,Ans: Bodh Gaya,True,True
+bihar_103,bihar,Hindi-Urdu,jhumar,tiny-aya-water,Garba,False,Dandiya Raas,False,False
+bihar_104,bihar,Hindi-Urdu,rajendra prasad,tiny-aya-water,No answer found.,False,Dr. Rajendra Prasad,True,True
+bihar_105,bihar,Hindi-Urdu,ganga bridge,tiny-aya-water,Ganga Aarti Bridge,False,Ans: Ram Setu,False,False
+bihar_106,bihar,Hindi-Urdu,sattu,tiny-aya-water,Chawal Churi,False,Besan Roti,False,False
+bihar_107,bihar,Hindi-Urdu,maurya dynasty,tiny-aya-water,Mauryan Empire,False,Ans: Maurya Dynasty,True,True
+delhi_108,delhi,Hindi-Urdu,Momos,tiny-aya-water,Dosa,False,Vada,False,False
+delhi_109,delhi,Hindi-Urdu,Murthal,tiny-aya-water,Noida,False,Ghaziabad,False,False
+delhi_110,delhi,Hindi-Urdu,Connaught place,tiny-aya-water,Chandni Chowk,False,Ans: Connaught Place,True,True
+delhi_111,delhi,Hindi-Urdu,Gedi maarna,tiny-aya-water,Chai Sip,False,Chaat Bazaar,False,False
+delhi_112,delhi,Hindi-Urdu,Jama Masjid,tiny-aya-water,Red Fort,False,Ans: Jama Masjid,True,True
+delhi_113,delhi,Hindi-Urdu,Sarojini Market,tiny-aya-water,Chandni Chowk,False,Ans: Chandni Chowk,False,False
+delhi_114,delhi,Hindi-Urdu,Hauz khaas,tiny-aya-water,Chandni Chowk,False,Ans: Lodhi Garden,False,False
+delhi_115,delhi,Hindi-Urdu,Chandani Chowk,tiny-aya-water,Chandni Chowk,False,Ans: Connaught Place,False,False
+delhi_116,delhi,Hindi-Urdu,Kadhai waala doodh,tiny-aya-water,Gulab Jamun,False,Kulfi,False,False
+delhi_117,delhi,Hindi-Urdu,Street food culture,tiny-aya-water,Biryani,False,Chaat,False,False
+rajasthan_118,rajasthan,Hindi-Urdu,daal baati,tiny-aya-water,Gatte ki Sabzi,False,Dal Bati Churma,False,False
+rajasthan_119,rajasthan,Hindi-Urdu,gatte,tiny-aya-water,Churma,False,Besan Barfi,False,False
+rajasthan_120,rajasthan,Hindi-Urdu,hawa mahal,tiny-aya-water,Hoysala Temple,False,Jal Mahal,False,False
+rajasthan_121,rajasthan,Hindi-Urdu,ghoomar,tiny-aya-water,Ghoomar,True,,False,True
+rajasthan_122,rajasthan,Hindi-Urdu,laal maas,tiny-aya-water,Dal Bati Churma,False,Gatte ki Sabzi,False,False
+rajasthan_123,rajasthan,Hindi-Urdu,bhangarh,tiny-aya-water,Chhau Killa,False,Dil Killa,False,False
+rajasthan_124,rajasthan,Hindi-Urdu,ghewar,tiny-aya-water,Ghewar,True,,False,True
+rajasthan_125,rajasthan,Hindi-Urdu,keoladeo national park,tiny-aya-water,Keoladeo Bird Sanctuary,False,Ans: Keoladeo Bird Sanctuary,False,False
+rajasthan_126,rajasthan,Hindi-Urdu,maal puha,tiny-aya-water,Ghewar,False,Barfi,False,False
+rajasthan_127,rajasthan,Hindi-Urdu,lake pichola,tiny-aya-water,Pichola Lake,False,Ans: Khejarilala Lake,False,False
+rajasthan_128,rajasthan,Hindi-Urdu,chittorgarh palace,tiny-aya-water,Amber Fort,False,Mehrangarh Fort,False,False
