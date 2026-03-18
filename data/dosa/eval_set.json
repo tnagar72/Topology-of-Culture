@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "andhra_pradesh_0",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Tirupati Balaji temple",
+    "clues": "The most famous Vishnu temple this is the richest place of worship",
+    "prompt1": "Clues: The most famous Vishnu temple this is the richest place of worship\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_1",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Rushi konda beach",
+    "clues": "A tourist beach in Vishakhapatnam. Navy air show takes place",
+    "prompt1": "Clues: A tourist beach in Vishakhapatnam. Navy air show takes place\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_2",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "kakinada kaja",
+    "clues": "A very popular sweet that is layers rolled and dipped in sugar. The name of the dish has the name of the place in it.",
+    "prompt1": "Clues: A very popular sweet that is layers rolled and dipped in sugar. The name of the dish has the name of the place in it.\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_3",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Prakasam barrage",
+    "clues": "It is a bridge like structure located in Vijayawada near Kanaka Durga temple.",
+    "prompt1": "Clues: It is a bridge like structure located in Vijayawada near Kanaka Durga temple.\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_4",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "kalamkari paintings",
+    "clues": "It is a textile block art print from Macchipatnam. Floral, Gods, animals are common themes of these prints.",
+    "prompt1": "Clues: It is a textile block art print from Macchipatnam. Floral, Gods, animals are common themes of these prints.\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_5",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Brass idol of Nataraja in Tirupati",
+    "clues": "A brass idol situated in Tirupati temple",
+    "prompt1": "Clues: A brass idol situated in Tirupati temple\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_6",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Kuchipudi",
+    "clues": "The classical dance form from Andhra",
+    "prompt1": "Clues: The classical dance form from Andhra\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_7",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Ikat Puri weaving",
+    "clues": "It is a famous weave done on cotton that produces zig-zag patterns.",
+    "prompt1": "Clues: It is a famous weave done on cotton that produces zig-zag patterns.\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_8",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "kondapalli toys",
+    "clues": "The toy making art of Andhra Pradesh that uses soft wood. These toys are famous as bobbleheads",
+    "prompt1": "Clues: The toy making art of Andhra Pradesh that uses soft wood. These toys are famous as bobbleheads\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_9",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Kamal kadai embroidery",
+    "clues": "The embroidery done on traditional sarees to mostly create floral prints.",
+    "prompt1": "Clues: The embroidery done on traditional sarees to mostly create floral prints.\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_10",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": " Kolannalu or kolattam",
+    "clues": "It is a dance form that makes use of sticks as props. It is done for Krishnashtami",
+    "prompt1": "Clues: It is a dance form that makes use of sticks as props. It is done for Krishnashtami\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_11",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Mangalagiri Handloom Sarees",
+    "clues": "A light weight good quality cotton saree",
+    "prompt1": "Clues: A light weight good quality cotton saree\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_12",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "chandragiri fort",
+    "clues": "A fort near Tirupati",
+    "prompt1": "Clues: A fort near Tirupati\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "andhra_pradesh_13",
+    "state": "andhra_pradesh",
+    "state_display": "Andhra Pradesh",
+    "group": "Telugu",
+    "artifact": "Dharmavaram pattu",
+    "clues": "The sarees with golden border which are worn only during marriages. The saree has the name of the location where it is woven.",
+    "prompt1": "Clues: The sarees with golden border which are worn only during marriages. The saree has the name of the location where it is woven.\n\nName the object based on the above clues from Andhra Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_14",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Batukamma/Bathukamma",
+    "clues": "It is a festival in which there is ammavaru that is decorated with flowers and then immersed in water (river and pond).  Songs related to Durga maa are sung during this festival The pot is considered to represent goddess gauri. It is done during Navratri and holds a lot of importance for females. They wear Pattu sarees (for married women) or langa voni (for unmarried young girls) Put candle or camphor on top of the decorated structure.  Turmeric called Gaurama and Kumkum are also put on that structure",
+    "prompt1": "Clues: It is a festival in which there is ammavaru that is decorated with flowers and then immersed in water (river and pond).  Songs related to Durga maa are sung during this festival The pot is considered to represent goddess gauri. It is done during Navratri and holds a lot of importance for females. They wear Pattu sarees (for married women) or langa voni (for unmarried young girls) Put candle or camphor on top of the decorated structure.  Turmeric called Gaurama and Kumkum are also put on that structure\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_15",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Charminar",
+    "clues": "Famous monument located in older part of Hyderabad. It can be climbed upto 1st floor.",
+    "prompt1": "Clues: Famous monument located in older part of Hyderabad. It can be climbed upto 1st floor.\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_16",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Kakatiya",
+    "clues": "A kingdom that ruled Telangana that bulit the 1000 pillar temple, Ramappa temple and Bhadrakali temple A very famous university is named after this kingdom in the Warangal district.",
+    "prompt1": "Clues: A kingdom that ruled Telangana that bulit the 1000 pillar temple, Ramappa temple and Bhadrakali temple A very famous university is named after this kingdom in the Warangal district.\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_17",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Hyderabadi Biryani",
+    "clues": "A food item synonymous with Hyderabad made with rice. It is an emotion and not just a food A standard Sunday lunch for many",
+    "prompt1": "Clues: A food item synonymous with Hyderabad made with rice. It is an emotion and not just a food A standard Sunday lunch for many\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_18",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Peddamma gudi",
+    "clues": "A famous temple in Hyderabad and is commonly visited on Bonaalu festival",
+    "prompt1": "Clues: A famous temple in Hyderabad and is commonly visited on Bonaalu festival\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_19",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Gadwal saree",
+    "clues": "It is a very famous handmade silk saree. The saree is famous for its foldability",
+    "prompt1": "Clues: It is a very famous handmade silk saree. The saree is famous for its foldability\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_20",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Salarjung Mueseum",
+    "clues": "The popular mueseum in Hyderabad.",
+    "prompt1": "Clues: The popular mueseum in Hyderabad.\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_21",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "durries from Warangal",
+    "clues": "Cotton blankets made in Warangal. These blankets are usually made of vegetable colors.",
+    "prompt1": "Clues: Cotton blankets made in Warangal. These blankets are usually made of vegetable colors.\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_22",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Hussain Sagar",
+    "clues": "A popular tourist lake in the center of the city of Hyderabad. There is a Buddha statue at this lake",
+    "prompt1": "Clues: A popular tourist lake in the center of the city of Hyderabad. There is a Buddha statue at this lake\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_23",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Golconda Fort",
+    "clues": "A  famous monument in Hyderabad that has a light and sound show. It was bulit by Kakatiya dynasty.",
+    "prompt1": "Clues: A  famous monument in Hyderabad that has a light and sound show. It was bulit by Kakatiya dynasty.\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_24",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "langa voni",
+    "clues": "A traditional dress usually worn by women before marriage.",
+    "prompt1": "Clues: A traditional dress usually worn by women before marriage.\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_25",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Bonaalu/Bonalu",
+    "clues": "A very famous festival in Hyderabad related to Maha Kali. On this festival people visit Peddama Gudi with rice pots on their head.",
+    "prompt1": "Clues: A very famous festival in Hyderabad related to Maha Kali. On this festival people visit Peddama Gudi with rice pots on their head.\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "telangana_26",
+    "state": "telangana",
+    "state_display": "Telangana",
+    "group": "Telugu",
+    "artifact": "Birla Mandir",
+    "clues": "A temple built on a hill, also a tourist or retreat spot. This temple is dedicated to the same God as Tirumala.",
+    "prompt1": "Clues: A temple built on a hill, also a tourist or retreat spot. This temple is dedicated to the same God as Tirumala.\n\nName the object based on the above clues from Telangana. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_27",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "lassi",
+    "clues": "Quite a famous summer punjabi drink It is made using curd",
+    "prompt1": "Clues: Quite a famous summer punjabi drink It is made using curd\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_28",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "bhangra",
+    "clues": "this is the folk dance of punjab it is generally performed by males",
+    "prompt1": "Clues: this is the folk dance of punjab it is generally performed by males\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_29",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "lohri",
+    "clues": "this is a punjabi festival usually celebrated in winters people make bonfires and kites are flown during the day this festival is also known as festival of kites people usually eat peanutes, rewaris etc. during this festival",
+    "prompt1": "Clues: this is a punjabi festival usually celebrated in winters people make bonfires and kites are flown during the day this festival is also known as festival of kites people usually eat peanutes, rewaris etc. during this festival\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_30",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "basant panchmi",
+    "clues": "this is a punjabi festival celebrated to welcome the spring season people usually dress up in yellow clothes and prepare dishes that are yellow in color",
+    "prompt1": "Clues: this is a punjabi festival celebrated to welcome the spring season people usually dress up in yellow clothes and prepare dishes that are yellow in color\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_31",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "punjabi jutti",
+    "clues": "This is a kind of footwear that is worn by both men and women it is usually made of leather and decorated with embroidery",
+    "prompt1": "Clues: This is a kind of footwear that is worn by both men and women it is usually made of leather and decorated with embroidery\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_32",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "virasat e khalsa",
+    "clues": "This is a popular museum that is situated near anandpur sahib it tells the history of sikhism and was built to celebrate the completion of 300 years of the formation of khalsa",
+    "prompt1": "Clues: This is a popular museum that is situated near anandpur sahib it tells the history of sikhism and was built to celebrate the completion of 300 years of the formation of khalsa\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_33",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "golden temple",
+    "clues": "this is the sacred place for sikhs it is situated in amritsar",
+    "prompt1": "Clues: this is the sacred place for sikhs it is situated in amritsar\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_34",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "sarson ka saag",
+    "clues": "this is a food item that is usually had in winters It is made using the leaves of the sunflower plant",
+    "prompt1": "Clues: this is a food item that is usually had in winters It is made using the leaves of the sunflower plant\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_35",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "paranda",
+    "clues": "this is something that punjabi ladies wear on their hair they usually wear this on special occasions such as wedding or a festival the women believe that by wearing this their hair will get longer and stronger",
+    "prompt1": "Clues: this is something that punjabi ladies wear on their hair they usually wear this on special occasions such as wedding or a festival the women believe that by wearing this their hair will get longer and stronger\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_36",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "baba farid",
+    "clues": "this person is a punjabi muslim preacher from 13th century this person wrote many punjabi poems and epics guru granth sahib, the holy book of sikhs also has some of their poems there's also a medical university named after him in Punjab",
+    "prompt1": "Clues: this person is a punjabi muslim preacher from 13th century this person wrote many punjabi poems and epics guru granth sahib, the holy book of sikhs also has some of their poems there's also a medical university named after him in Punjab\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_37",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "nakashi",
+    "clues": "this is a type of embroidery wire like threads are used this kind of embridery is mostly used for wedding dresses this is more popular is punjabi muslim families",
+    "prompt1": "Clues: this is a type of embroidery wire like threads are used this kind of embridery is mostly used for wedding dresses this is more popular is punjabi muslim families\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_38",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "saggi phull",
+    "clues": "this is an essential punjabi jewellery worn by women this is usually worn by women during a folk dance performance on their heads it consists of one centerpiece flanked by two flowers on either side",
+    "prompt1": "Clues: this is an essential punjabi jewellery worn by women this is usually worn by women during a folk dance performance on their heads it consists of one centerpiece flanked by two flowers on either side\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_39",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "pakhi",
+    "clues": "this is an object that is used in summers this is mostly used as an alternative to an electric fan it is operated using hands",
+    "prompt1": "Clues: this is an object that is used in summers this is mostly used as an alternative to an electric fan it is operated using hands\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_40",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "heer ranjha",
+    "clues": "this is a tragic love story of two lovers this was composed by waris shah this love story is similar to romeo juliet",
+    "prompt1": "Clues: this is a tragic love story of two lovers this was composed by waris shah this love story is similar to romeo juliet\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_41",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "baisakhi",
+    "clues": "this is a festival that is celebrated in the month of april it is also known as the harvest festival of punjab",
+    "prompt1": "Clues: this is a festival that is celebrated in the month of april it is also known as the harvest festival of punjab\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_42",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "dastar",
+    "clues": "this is a head gear this is only worn by sikh men and women who have been baptized",
+    "prompt1": "Clues: this is a head gear this is only worn by sikh men and women who have been baptized\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_43",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "kaintha",
+    "clues": "this is an ornament jewellery this is usually worn by men on their necks this is usually worn during a bhangra performance or on special occasions",
+    "prompt1": "Clues: this is an ornament jewellery this is usually worn by men on their necks this is usually worn during a bhangra performance or on special occasions\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_44",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "gurudwara",
+    "clues": "this is a place of worship for sikhs",
+    "prompt1": "Clues: this is a place of worship for sikhs\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_45",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "turban",
+    "clues": "this is a head gear generally worn by sikh men people of other religion can also wear this headgear",
+    "prompt1": "Clues: this is a head gear generally worn by sikh men people of other religion can also wear this headgear\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "punjab_46",
+    "state": "punjab",
+    "state_display": "Punjab",
+    "group": "Punjabi",
+    "artifact": "chudha",
+    "clues": "this is a kind of jewellery usually gifted to the bride on their wedding day by their maternal uncle the bride is not supposed to see this jewellery before she has been wedded they are required to wear this for a minimum of 40 days post their wedding",
+    "prompt1": "Clues: this is a kind of jewellery usually gifted to the bride on their wedding day by their maternal uncle the bride is not supposed to see this jewellery before she has been wedded they are required to wear this for a minimum of 40 days post their wedding\n\nName the object based on the above clues from Punjab. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_47",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "nabanna",
+    "clues": "This is the official headquarter of the current day government in West Bengal.",
+    "prompt1": "Clues: This is the official headquarter of the current day government in West Bengal.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_48",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "dokra",
+    "clues": "This is a traditional artform. It is made of burnt metalwares. The objects formed are dark in colour. This kind of technique also uses wax",
+    "prompt1": "Clues: This is a traditional artform. It is made of burnt metalwares. The objects formed are dark in colour. This kind of technique also uses wax\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_49",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "bamboo craft",
+    "clues": "An art form which is not made of clay or wire. This is made of shoots or plants. The products are cheaper. People can use it for making fans and fences.",
+    "prompt1": "Clues: An art form which is not made of clay or wire. This is made of shoots or plants. The products are cheaper. People can use it for making fans and fences.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_50",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "chhau dance",
+    "clues": "This is a folk dance form practiced in Purulia People put on colorful masks to perform this dance",
+    "prompt1": "Clues: This is a folk dance form practiced in Purulia People put on colorful masks to perform this dance\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_51",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "kantha",
+    "clues": "This is a traditional bengali blanket. This kind of blanket is mostly used as children's blanket This blanket is stitched using running stitch",
+    "prompt1": "Clues: This is a traditional bengali blanket. This kind of blanket is mostly used as children's blanket This blanket is stitched using running stitch\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_52",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "elish fish fry",
+    "clues": "This is a dish made of fish. It is an emotion for bengalis. It has two variants one of West Bengal and one of Bangladesh. It is the simplest recipe of this dish. Cooking this involves oil and no major spices. This fish is found in padma river",
+    "prompt1": "Clues: This is a dish made of fish. It is an emotion for bengalis. It has two variants one of West Bengal and one of Bangladesh. It is the simplest recipe of this dish. Cooking this involves oil and no major spices. This fish is found in padma river\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_53",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "wb new",
+    "clues": "It is a cream most widely used",
+    "prompt1": "Clues: It is a cream most widely used\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_54",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "jamdani saree",
+    "clues": "This is a type of traditional Bengali saree. It is more popular in Bangladesh than in West Bengal. It genrally comes in White or natural colors. It is the prime choice when shopping sarees for a royal event or even pujo. It is generally woven by hand",
+    "prompt1": "Clues: This is a type of traditional Bengali saree. It is more popular in Bangladesh than in West Bengal. It genrally comes in White or natural colors. It is the prime choice when shopping sarees for a royal event or even pujo. It is generally woven by hand\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_55",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "terracotta craft",
+    "clues": "this is a popular handicraft which is made of clay. And is Found in Bishnupra region.",
+    "prompt1": "Clues: this is a popular handicraft which is made of clay. And is Found in Bishnupra region.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_56",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "kirtan",
+    "clues": "This is a kind of devotional dance It is primarily practiced in Nabadwip Mayapur area. Participants sing while dancing.",
+    "prompt1": "Clues: This is a kind of devotional dance It is primarily practiced in Nabadwip Mayapur area. Participants sing while dancing.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_57",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "misti doi",
+    "clues": "this is quite a popular sweet dish in bengal. This dish has consistent texture and is light brown in color this dish is softer than sandesh this dish is sold in claypots",
+    "prompt1": "Clues: this is quite a popular sweet dish in bengal. This dish has consistent texture and is light brown in color this dish is softer than sandesh this dish is sold in claypots\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_58",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "sundarban",
+    "clues": "The largest mangrove forest in the world.",
+    "prompt1": "Clues: The largest mangrove forest in the world.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_59",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "tant saree",
+    "clues": "this is a Traditional Saree It is not royal and cheaper than other sarees. This is hand woven.",
+    "prompt1": "Clues: this is a Traditional Saree It is not royal and cheaper than other sarees. This is hand woven.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_60",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "patachitra",
+    "clues": "Form of painting practiced more in Orissa than West Bengal. The format is that they have a long sheet of cloth. Through painitings they depict stories like Mahabharat This practiced by only certain communities It is a dying artform.",
+    "prompt1": "Clues: Form of painting practiced more in Orissa than West Bengal. The format is that they have a long sheet of cloth. Through painitings they depict stories like Mahabharat This practiced by only certain communities It is a dying artform.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_61",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "baul",
+    "clues": "This is a type of a folk cult song. It is famous in Shantineketan.",
+    "prompt1": "Clues: This is a type of a folk cult song. It is famous in Shantineketan.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_62",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "royal bengal tiger",
+    "clues": "National animal of India",
+    "prompt1": "Clues: National animal of India\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_63",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "rabindra sangeet",
+    "clues": "The most popular genre of Bengali songs. These kind of songs are used as background songs for movies and plays",
+    "prompt1": "Clues: The most popular genre of Bengali songs. These kind of songs are used as background songs for movies and plays\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_64",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "najrul geeti",
+    "clues": "This is the second most popular genre of songs. Najrul is the poet of these songs These were composed by a poet who is second most popular. Most of his compositions are partiotic.",
+    "prompt1": "Clues: This is the second most popular genre of songs. Najrul is the poet of these songs These were composed by a poet who is second most popular. Most of his compositions are partiotic.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_65",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "banga mata",
+    "clues": "The name itself is a variation of Rabindranath tagore's famous painting on Mother India. The name is the Bengali version.",
+    "prompt1": "Clues: The name itself is a variation of Rabindranath tagore's famous painting on Mother India. The name is the Bengali version.\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "west_bengal_66",
+    "state": "west_bengal",
+    "state_display": "West Bengal",
+    "group": "Bengali",
+    "artifact": "kobigaan",
+    "clues": "This is a genre of song popular in 18th or 19th century. This genre is also a nickname of a popular bengali icon this song is performed during durga puja this song is usually practiced in rural areas and is quite similar to baul",
+    "prompt1": "Clues: This is a genre of song popular in 18th or 19th century. This genre is also a nickname of a popular bengali icon this song is performed during durga puja this song is usually practiced in rural areas and is quite similar to baul\n\nName the object based on the above clues from West Bengal. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_67",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "modak",
+    "clues": "It is a maharashtrian dessert This is eaten during ganesh chaturthi the filling for this dish consist of coconut",
+    "prompt1": "Clues: It is a maharashtrian dessert This is eaten during ganesh chaturthi the filling for this dish consist of coconut\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_68",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "vada pav",
+    "clues": "It is an every-day food item This is quite famous in Mumbai this dish is typically served with bread this dish pairs up well with chutney and chilli",
+    "prompt1": "Clues: It is an every-day food item This is quite famous in Mumbai this dish is typically served with bread this dish pairs up well with chutney and chilli\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_69",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "powada",
+    "clues": "It is a type of song This song is used to tell stories related to shivaji maharaj It is a marathi ballad Mostly played during shivaji jayanti",
+    "prompt1": "Clues: It is a type of song This song is used to tell stories related to shivaji maharaj It is a marathi ballad Mostly played during shivaji jayanti\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_70",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "lavani",
+    "clues": "It is an old form of dance This form of dance is usually practiced when the villagers are done harvesting their crops",
+    "prompt1": "Clues: It is an old form of dance This form of dance is usually practiced when the villagers are done harvesting their crops\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_71",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "sol kadhi",
+    "clues": "it is a drink from maharashtra konkan coast it is made of kokam and coconut milk it is pink in color",
+    "prompt1": "Clues: it is a drink from maharashtra konkan coast it is made of kokam and coconut milk it is pink in color\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_72",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "paithani",
+    "clues": "it is a famous type of saree it has a peacock designed on it",
+    "prompt1": "Clues: it is a famous type of saree it has a peacock designed on it\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_73",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "local train",
+    "clues": "it is the most common form of travel in mumbai also called the lifeline of mumbai",
+    "prompt1": "Clues: it is the most common form of travel in mumbai also called the lifeline of mumbai\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_74",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "ajanta caves",
+    "clues": "One of the famous caves in maharashtra They consist of buddhist cave monuments",
+    "prompt1": "Clues: One of the famous caves in maharashtra They consist of buddhist cave monuments\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_75",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "bollywood",
+    "clues": "one of the famous acting industry in mumbai",
+    "prompt1": "Clues: one of the famous acting industry in mumbai\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_76",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "aam ras",
+    "clues": "this dish is usually had with poori It is made of mangoes this dish is usually served during sumers",
+    "prompt1": "Clues: this dish is usually had with poori It is made of mangoes this dish is usually served during sumers\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_77",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "tandalachi bhakri",
+    "clues": "this is an alternative to roti it is made of rice it is white in color",
+    "prompt1": "Clues: this is an alternative to roti it is made of rice it is white in color\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_78",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "shirdi",
+    "clues": "it is a place that is associated with sai baba it is situated near nashik",
+    "prompt1": "Clues: it is a place that is associated with sai baba it is situated near nashik\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_79",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "aksa beach",
+    "clues": "this is a beach in mumbai situated near malad area",
+    "prompt1": "Clues: this is a beach in mumbai situated near malad area\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_80",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "bangda fish curry",
+    "clues": "it is a konkani famous fish curry The fish that is used to make this curry is a flat fish",
+    "prompt1": "Clues: it is a konkani famous fish curry The fish that is used to make this curry is a flat fish\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_81",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "zunka bhakri",
+    "clues": "it is an every-day meal in maharashtrian villages it's a poor-man's lunch item",
+    "prompt1": "Clues: it is an every-day meal in maharashtrian villages it's a poor-man's lunch item\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "maharashtra_82",
+    "state": "maharashtra",
+    "state_display": "Maharashtra",
+    "group": "Marathi",
+    "artifact": "pithla bhakri",
+    "clues": "this is a very common type of bhakri this bhakri is made of jowar this bhakri is usually eaten with besan",
+    "prompt1": "Clues: this is a very common type of bhakri this bhakri is made of jowar this bhakri is usually eaten with besan\n\nName the object based on the above clues from Maharashtra. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_83",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Charkula",
+    "clues": "This is a devotional dance form from the Braj region.\r It is performed during Holi by carrying oil lamps on ones' head.",
+    "prompt1": "Clues: This is a devotional dance form from the Braj region.\r It is performed during Holi by carrying oil lamps on ones' head.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_84",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Nautanki",
+    "clues": "A  traditional theater art that usually happens in villages especially at night.",
+    "prompt1": "Clues: A  traditional theater art that usually happens in villages especially at night.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_85",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Lucknow Kurta or kurta payjama",
+    "clues": "A generic name for male clothing popular in Lucknow.\r It is more famously worn by the Muslim community.",
+    "prompt1": "Clues: A generic name for male clothing popular in Lucknow.\r It is more famously worn by the Muslim community.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_86",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "petha",
+    "clues": "A famous dessert from Agra.\r It is not a seasonal dessert.",
+    "prompt1": "Clues: A famous dessert from Agra.\r It is not a seasonal dessert.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_87",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Thumri",
+    "clues": "The singing form that forms the backdrop of the Story \"एही ठैयाँ झुलनी हेरानी हो रामा!\"",
+    "prompt1": "Clues: The singing form that forms the backdrop of the Story \"एही ठैयाँ झुलनी हेरानी हो रामा!\"\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_88",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "dadra",
+    "clues": "A musical art form performed in Braj language has origins from Bundelkhand the region",
+    "prompt1": "Clues: A musical art form performed in Braj language has origins from Bundelkhand the region\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_89",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Chikankari",
+    "clues": "A famous embroidery form from Lucknow",
+    "prompt1": "Clues: A famous embroidery form from Lucknow\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_90",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "shahnai",
+    "clues": "A famous instrument from Benaras.\r Bismillah Khan is famous for playing this instrument.",
+    "prompt1": "Clues: A famous instrument from Benaras.\r Bismillah Khan is famous for playing this instrument.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_91",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Banaras or Kashi",
+    "clues": "A place where Lord Shiva is believed to have resided.\r A famous song picturised on Amitab Bacchan has the reference to this place.",
+    "prompt1": "Clues: A place where Lord Shiva is believed to have resided.\r A famous song picturised on Amitab Bacchan has the reference to this place.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_92",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Ramlila",
+    "clues": "A local informal theater done during Diwali and Dusherra for mythological storytelling primarily Ramayan.\r It is organized by colonies and societies.",
+    "prompt1": "Clues: A local informal theater done during Diwali and Dusherra for mythological storytelling primarily Ramayan.\r It is organized by colonies and societies.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_93",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Taj mahal",
+    "clues": "A famous monument in Agra made of white marble.",
+    "prompt1": "Clues: A famous monument in Agra made of white marble.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_94",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Kathak",
+    "clues": "A classical dance form from Uttar Pradesh.\r Pt. Birju Maharaj is a famous performer of this dance.",
+    "prompt1": "Clues: A classical dance form from Uttar Pradesh.\r Pt. Birju Maharaj is a famous performer of this dance.\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "uttar_pradesh_95",
+    "state": "uttar_pradesh",
+    "state_display": "Uttar Pradesh",
+    "group": "Hindi-Urdu",
+    "artifact": "Banarasi Saree",
+    "clues": "A traditional saree from Benaras made from silk",
+    "prompt1": "Clues: A traditional saree from Benaras made from silk\n\nName the object based on the above clues from Uttar Pradesh. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_96",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "gupta dynasty",
+    "clues": "this dynasty ruled the indian subcontinent with its headquarters based in modern-day Patna this dynasty's rule was known as the golden age of ruling",
+    "prompt1": "Clues: this dynasty ruled the indian subcontinent with its headquarters based in modern-day Patna this dynasty's rule was known as the golden age of ruling\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_97",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "litti",
+    "clues": "this food item is a dough made of whole wheat and is stuffed with pulses this item is also available in the neighbouring state of UP",
+    "prompt1": "Clues: this food item is a dough made of whole wheat and is stuffed with pulses this item is also available in the neighbouring state of UP\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_98",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "litchi",
+    "clues": "this is quite popular fruit originating from Bihar this has one seed inside, the flesh is juicy with a red outer covering",
+    "prompt1": "Clues: this is quite popular fruit originating from Bihar this has one seed inside, the flesh is juicy with a red outer covering\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_99",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "mithila painting",
+    "clues": "this is an art form depicting different kind of religious history these paintings also depict village life of bihar",
+    "prompt1": "Clues: this is an art form depicting different kind of religious history these paintings also depict village life of bihar\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_100",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "mahabodhi temple",
+    "clues": "this temple is the place of worship for Buddhists this temple is located in bodh gaya",
+    "prompt1": "Clues: this temple is the place of worship for Buddhists this temple is located in bodh gaya\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_101",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "jayaprakash narayan",
+    "clues": "this person is a freedom fighter hailing from bihar this person formed a political party by the name of janata party",
+    "prompt1": "Clues: this person is a freedom fighter hailing from bihar this person formed a political party by the name of janata party\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_102",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "bodh gaya",
+    "clues": "this is the place where gautam buddha got his enlightenment this is also a district in bihar",
+    "prompt1": "Clues: this is the place where gautam buddha got his enlightenment this is also a district in bihar\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_103",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "jhumar",
+    "clues": "this kind of dance form is majorly performed during harvest season this dance form uses dhol, nagara, bansuri as their musical instruments this dance form mainly involves holding hands, swaying their bodies and some jumps",
+    "prompt1": "Clues: this kind of dance form is majorly performed during harvest season this dance form uses dhol, nagara, bansuri as their musical instruments this dance form mainly involves holding hands, swaying their bodies and some jumps\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_104",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "rajendra prasad",
+    "clues": "this person is a famous politician from Bihar this person was the first president of india",
+    "prompt1": "Clues: this person is a famous politician from Bihar this person was the first president of india\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_105",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "ganga bridge",
+    "clues": "this bridge is built on the holiest river for hindus",
+    "prompt1": "Clues: this bridge is built on the holiest river for hindus\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_106",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "sattu",
+    "clues": "this is flour made from powdered  chana",
+    "prompt1": "Clues: this is flour made from powdered  chana\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "bihar_107",
+    "state": "bihar",
+    "state_display": "Bihar",
+    "group": "Hindi-Urdu",
+    "artifact": "maurya dynasty",
+    "clues": "this dynasty was started by chandragupta maurya this dynasty's headquarters was in modern-day bihar",
+    "prompt1": "Clues: this dynasty was started by chandragupta maurya this dynasty's headquarters was in modern-day bihar\n\nName the object based on the above clues from Bihar. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_108",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Momos",
+    "clues": "A go to street food delicacy of Delhi NCR. It is made with white dough There are multiple variations but is usually served with Chutney",
+    "prompt1": "Clues: A go to street food delicacy of Delhi NCR. It is made with white dough There are multiple variations but is usually served with Chutney\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_109",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Murthal",
+    "clues": "This place has multiple dhabas. It is a place where many people go for a drive.",
+    "prompt1": "Clues: This place has multiple dhabas. It is a place where many people go for a drive.\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_110",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Connaught place",
+    "clues": "This is a very famous hangout place. There are multiple eating and shopping places here. It has a circular layout. It is close to Jantar Mantar",
+    "prompt1": "Clues: This is a very famous hangout place. There are multiple eating and shopping places here. It has a circular layout. It is close to Jantar Mantar\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_111",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Gedi maarna",
+    "clues": "It is an activity or verb common amongst the youth in Delhi NCR It is a common travelling activity done without aim by youth",
+    "prompt1": "Clues: It is an activity or verb common amongst the youth in Delhi NCR It is a common travelling activity done without aim by youth\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_112",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Jama Masjid",
+    "clues": "This is a place of worship which is the largest in India for this faith.",
+    "prompt1": "Clues: This is a place of worship which is the largest in India for this faith.\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_113",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Sarojini Market",
+    "clues": "A market to buy cheap clothes or 1st copy.",
+    "prompt1": "Clues: A market to buy cheap clothes or 1st copy.\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_114",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Hauz khaas",
+    "clues": "It is a popular hangout place in south delhi which has many expensive cafes. It is a chic place named after a reservoir. It also has two very reputed institutes  located there.",
+    "prompt1": "Clues: It is a popular hangout place in south delhi which has many expensive cafes. It is a chic place named after a reservoir. It also has two very reputed institutes  located there.\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_115",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Chandani Chowk",
+    "clues": "It is one of the most crowded market place in Old Delhi. A famous Bollywood actor is from this location. It is quite famous for paranthe and bridal wear shopping",
+    "prompt1": "Clues: It is one of the most crowded market place in Old Delhi. A famous Bollywood actor is from this location. It is quite famous for paranthe and bridal wear shopping\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_116",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Kadhai waala doodh",
+    "clues": "It is a popular winter drink served in the streets It is usually served in clay cups. Many a times it is seasoned with dry fruits.",
+    "prompt1": "Clues: It is a popular winter drink served in the streets It is usually served in clay cups. Many a times it is seasoned with dry fruits.\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "delhi_117",
+    "state": "delhi",
+    "state_display": "Delhi",
+    "group": "Hindi-Urdu",
+    "artifact": "Street food culture",
+    "clues": "A phrase to define the food culture of Delhi. People from Delhi miss this when they go outside.",
+    "prompt1": "Clues: A phrase to define the food culture of Delhi. People from Delhi miss this when they go outside.\n\nName the object based on the above clues from Delhi. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_118",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "daal baati",
+    "clues": "this dish is one of the most famous dish of rajasthan",
+    "prompt1": "Clues: this dish is one of the most famous dish of rajasthan\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_119",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "gatte",
+    "clues": "this dish is quite popular in rajasthan this is made out of gram flour",
+    "prompt1": "Clues: this dish is quite popular in rajasthan this is made out of gram flour\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_120",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "hawa mahal",
+    "clues": "this monument is situated in jaipur this monument has lot of windows",
+    "prompt1": "Clues: this monument is situated in jaipur this monument has lot of windows\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_121",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "ghoomar",
+    "clues": "this is the folk dance of rajasthan",
+    "prompt1": "Clues: this is the folk dance of rajasthan\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_122",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "laal maas",
+    "clues": "this is a non-veg dish made with mutton the dish has a bright red curry",
+    "prompt1": "Clues: this is a non-veg dish made with mutton the dish has a bright red curry\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_123",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "bhangarh",
+    "clues": "this place is known as a scary place",
+    "prompt1": "Clues: this place is known as a scary place\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_124",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "ghewar",
+    "clues": "this is a popular sweet dish in rajasthan",
+    "prompt1": "Clues: this is a popular sweet dish in rajasthan\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_125",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "keoladeo national park",
+    "clues": "this is a famous bird sanctuary in bharatpur the name of this sanctuary is after a goddess",
+    "prompt1": "Clues: this is a famous bird sanctuary in bharatpur the name of this sanctuary is after a goddess\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_126",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "maal puha",
+    "clues": "this is a fried sweet dish this dish is then dipped in a sugar syrup after frying this dish is cooked during festivals",
+    "prompt1": "Clues: this is a fried sweet dish this dish is then dipped in a sugar syrup after frying this dish is cooked during festivals\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_127",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "lake pichola",
+    "clues": "this is a famous lake in Udaipur this lake is situated right outside the udaipur palace",
+    "prompt1": "Clues: this is a famous lake in Udaipur this lake is situated right outside the udaipur palace\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  },
+  {
+    "id": "rajasthan_128",
+    "state": "rajasthan",
+    "state_display": "Rajasthan",
+    "group": "Hindi-Urdu",
+    "artifact": "chittorgarh palace",
+    "clues": "this is a popular fort of a rajasthani dynasty this fort is one of the largest forts in India",
+    "prompt1": "Clues: this is a popular fort of a rajasthani dynasty this fort is one of the largest forts in India\n\nName the object based on the above clues from Rajasthan. Just tell me the answer and nothing else.",
+    "prompt2": "Your first guess is not correct. While making your second guess, please stick to the format as ANSWER: your_answer_here."
+  }
+]
