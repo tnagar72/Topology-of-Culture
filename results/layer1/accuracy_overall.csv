@@ -1,0 +1,5 @@
+model,accuracy
+tiny-aya-earth,0.2248
+tiny-aya-water,0.2171
+tiny-aya-global,0.2093
+tiny-aya-fire,0.186
