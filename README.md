@@ -2,7 +2,6 @@
 ### Evaluating Cultural Competence in South Asian Language Models
 *C4AI Expedition — Tiny Aya*
 
----
 
 ## Overview
 
@@ -11,7 +10,6 @@ This project investigates that question across **7 South Asian languages** using
 
 The central concern is **cultural homogenization** — the tendency of multilingual models to collapse distinct South Asian communities (Telugu, Punjabi, Bengali, Marathi, Hindi-Urdu, Gujarati, Tamil) into a generic, undifferentiated "Indian" representation. We test whether targeted South Asian post-training measurably counters this effect.
 
----
 
 ## Models
 
@@ -23,7 +21,6 @@ All three models share the same base. The only difference is post-training data.
 | **Tiny Aya Global** | Balanced across 70+ languages | Baseline |
 | **Tiny Aya Earth** | West Asian & African languages | Controls for regional post-training in general |
 
----
 
 ## Evaluation
 
@@ -38,7 +35,6 @@ We use a two-layer evaluation framework to test cultural competence from differe
 
 **Key property:** Tests whether models have internalized culturally specific knowledge and can *distinguish between* communities rather than flattening them.
 
----
 
 ### Layer 1b — MILU (Cultural Reasoning in Native Scripts)
 **Dataset:** [MILU](https://arxiv.org/abs/2411.02538) — ~79,000 multiple-choice questions from 1,500+ real Indian competitive exams across 11 Indic languages, spanning 8 domains and 41 subjects.
@@ -51,7 +47,6 @@ We use a two-layer evaluation framework to test cultural competence from differe
 
 **Key property:** Unlike DOSA, questions are in native scripts. This directly tests linguistic competence *and* culturally situated reasoning together.
 
----
 
 ## Key Results
 
@@ -65,19 +60,14 @@ We use a two-layer evaluation framework to test cultural competence from differe
 - **Fire outperforms Aya-23-35B** (4× larger, 5-shot) on 3 low-resource languages: Gujarati (+2.4%), Punjabi (+5.7%), Telugu (+3.6%).
 - Earth does not outperform Global, confirming the gains are **specific to South Asian training data**, not a byproduct of any regional post-training.
 
----
 
 ## Repository Structure
-\`\`\`
 Topology-of-Culture/
 ├── data/
 │   └── dosa/               # DOSA artifacts and clues by language group
 ├── results/
 │   └── dosa/               # Model outputs and scored results
 └── src/                    # Evaluation scripts
-\`\`\`
-
----
 
 ## References
 
