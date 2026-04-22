@@ -26,17 +26,17 @@ All three models share the same base. The only difference is post-training data.
 
 We use a two-layer evaluation framework to test cultural competence from different angles.
 
-### Layer 1 — DOSA (Surface Cultural Knowledge)
-**Dataset:** [DOSA](https://arxiv.org/abs/2403.14651) — 129 community-generated cultural artifacts across 5 Indian language groups (Telugu, Punjabi, Bengali, Marathi, Hindi-Urdu), collected from 260 participants across 19 states.
+### Layer 1: DOSA (Surface Cultural Knowledge)
+**Dataset:** [DOSA](https://arxiv.org/abs/2403.14651) 129 community-generated cultural artifacts across 5 Indian language groups (Telugu, Punjabi, Bengali, Marathi, Hindi-Urdu), collected from 260 participants across 19 states.
 
-**Task:** A Taboo-style guessing game. Given community-written clues describing a cultural artifact, the model must name it — in English, from memory, with no multiple-choice options. Two attempts are allowed.
+**Task:** A Taboo-style guessing game. Given community-written clues describing a cultural artifact, the model must name it in English, from memory, with no multiple-choice options. Two attempts are allowed.
 
-**Metrics:** `accuracy@GUESS1`, `accuracy@GUESS2`, `overall accuracy` — reported per model and per language group.
+**Metrics:** `accuracy@GUESS1`, `accuracy@GUESS2`, `overall accuracy` reported per model and per language group.
 
 **Key property:** Tests whether models have internalized culturally specific knowledge and can *distinguish between* communities rather than flattening them.
 
 
-### Layer 1b — MILU (Cultural Reasoning in Native Scripts)
+### Layer 1b: MILU (Cultural Reasoning in Native Scripts)
 **Dataset:** [MILU](https://arxiv.org/abs/2411.02538) — ~79,000 multiple-choice questions from 1,500+ real Indian competitive exams across 11 Indic languages, spanning 8 domains and 41 subjects.
 
 **Evaluated languages:** Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Punjabi + English (baseline).
